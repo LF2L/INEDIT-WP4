@@ -3,6 +3,9 @@
 .AppleDouble
 .LSOverride
 
+# Jekyll dont bother
+docs/README.html
+
 # Icon must end with two \r
 Icon
 
