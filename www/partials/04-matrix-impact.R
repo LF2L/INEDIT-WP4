@@ -67,7 +67,7 @@ matrix.impact <- function(matrix, ...) {
       coord_cartesian(ylim = c(1, 11))
 
       
-   matrix =  ggplotly( figure, height=500, width=1000,  tooltip=c('text')) # "Name" or "University"
+   matrix =  ggplotly( figure, height=800, width=1000,  tooltip=c('text')) # "Name" or "University"
    
      
    return(matrix)
