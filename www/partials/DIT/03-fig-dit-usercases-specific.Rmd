@@ -52,18 +52,28 @@ Test$IDtarget <- match(Test$Target, nodes$name)-1
 
 ```
 
-```{r include=TRUE, fig.width=10, fig.height=15}
+[See the picture in big size](https://lf2l.github.io/INEDIT-WP4/DIT-usecases/)
 
+```{r include=TRUE, fig.width=10, fig.height=5}
+
+#implication <- 
 sankeyNetwork(Links = Test, Nodes = nodes,
               Source = "IDsource", Target = "IDtarget", 
               Value = "Value", NodeID = "name",  fontSize = 15, #LinkGroup="Group",# NodeGroup="Group",
               sinksRight=FALSE,
               nodeWidth = 30,
-              height = 1500,
-              width = 1500,
+              height = 500,
+              width = 1000,
               nodePadding = 1
               )
 
 
+#to Jpg
+#saveWidget(as_widget(implication), "implication.html", selfcontained = TRUE)
+#webshot2::webshot(url = "implication.html", file= "Implication.png" , vwidth = 1800, vheight = 1300)
+
+
 ```
+
+
 

@@ -23,7 +23,7 @@ Test$path <- gsub('-NA', '', Test$path)
 # fig = sund2b(Test, rootLabel = "INEDIT DIT" , height=800 , showLabels = FALSE) 
 
 # Option 3
-fig = sund2b(Test, rootLabel = "INEDIT DIT" , showLabels = FALSE, width = 1000,  height = 1000,
+fig = sund2b(Test, rootLabel = "INEDIT DIT" , showLabels = FALSE, width = 2000,  height = 4000,
        breadcrumbs = sund2bBreadcrumb( html = htmlwidgets::JS("
                            function(nodedata, size, percent) {
                               return '<span style=\"font-weight: bold;\">' + nodedata.name + '</span>' 
@@ -39,6 +39,6 @@ fig = sund2b(Test, rootLabel = "INEDIT DIT" , showLabels = FALSE, width = 1000, 
 ```
 
 
-```{r, include=TRUE, fig.width=10, fig.height=10}
+```{r, include=TRUE, fig.width=10, out.height=20}
 fig
 ```
