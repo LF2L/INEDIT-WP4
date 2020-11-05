@@ -38,7 +38,7 @@ source("www/partials/03-goals.R")
 source("www/partials/04-matrix-impact.R")
 source("www/partials/05-global-matrix-impact.R")
 source("www/partials/06-indepth-analysis.R")
-
+source("www/partials/07-innovations.R")
 ```
 
 
@@ -136,9 +136,7 @@ goals(Test)
 
 ### Innovations
 ```{r, include= TRUE}
-AIMEN  = Test$Innovations %>% melt() %>% filter(L2 == "Description")
-collapsibleTree( AIMEN, hierarchy= c("L1", "L2", "value"), height = 500, width = 500, zoomable = TRUE, fontSize = 15)
-rm(AIMEN)
+innovations(Test)
 ```
 
 
@@ -170,9 +168,7 @@ goals(Test)
 
 ### Innovations
 ```{r, include= TRUE}
-UL  = Test$Innovations %>% melt() %>% filter(L2 == "Description")
-collapsibleTree( UL, hierarchy= c("L1", "L2", "value"), height=500, width = 2000, zoomable = TRUE, fontSize = 15)
-rm(UL)
+innovations(Test)
 ```
 
 
@@ -201,9 +197,11 @@ goals(Test)
 
 ### Innovations
 ```{r, include= TRUE}
-UNINOVA  = Test$Innovations %>% melt() %>% filter(L2 == "Description")
-collapsibleTree( UNINOVA, hierarchy= c("L1", "L2", "value"), height=500, width = 3000, zoomable = TRUE, fontSize = 15)
-rm(UNINOVA)
+#UNINOVA  = Test$Innovations %>% melt() %>% filter(L2 == "Description")
+#collapsibleTree( UNINOVA, hierarchy= c("L1", "L2", "value"), height=500, width = 3000, zoomable = TRUE, fontSize = 15)
+
+innovations(Test)
+#rm(UNINOVA)
 ```
 
 ### Impacts
@@ -231,9 +229,10 @@ goals(Test)
 
 ### Innovations
 ```{r, include= TRUE}
-VERA  = Test$Innovations %>% melt() %>% filter(L2 == "Description")
-collapsibleTree( VERA, hierarchy= c("L1", "L2", "value"), height=500, width = 2000, zoomable = TRUE, fontSize = 15)
-rm(VERA)
+#VERA  = Test$Innovations %>% melt() %>% filter(L2 == "Description")
+#collapsibleTree( VERA, hierarchy= c("L1", "L2", "value"), height=500, width = 2000, zoomable = TRUE, fontSize = 15)
+innovations(Test)
+#rm(VERA)
 ```
 
 ### Impacts
