@@ -1,0 +1,62 @@
+
+## Synthese Brunelle
+```{r In.depth.Analysis.Syntheèse}
+# Loading the data from Excel
+path <- "./www/data/II/"
+file_names <- paste0(path, list.files(path = path, pattern="*.xlsx"))
+
+Excel  <- lapply(excel_sheets(file_names[4]), read_excel, path = file_names[4]) 
+   sheets.name = paste0('Sheet-', 1:length(Excel))
+   Excel = Excel %>% set_names(sheets.name) 
+   
+   # Creating a only dataframe I
+   Test = Excel %>% magrittr::extract(c(paste0('Sheet-', c(1:6)))) %>%  reduce(rbind)
+   
+   # Creating a only dataframe I
+   Test2 = Excel %>% magrittr::extract(c(paste0('Sheet-', c(7:20)))) %>%  reduce(rbind) %>% mutate(Task = c("")) %>%
+      select(Process, Activity, Task, Partner, "Involved stakeholders" : "Skills' maturity" )
+   
+   names(Test2)
+   
+      # Merge the two dataframes
+   Test = rbind(Test, Test2) 
+   rm(Test2)
+   
+   # Deleting the NA Values
+   Test = Test %>% drop_na(Partner)
+   
+   # Filling the gaps
+   Test = Test %>% fill(Process, Activity)
+   
+X = Test %>% select(Partner, Process ) %>% mutate(Value = 1 ) %>% set_colnames(c("Source", "Target", "Value")) 
+Y = Test %>% select(Process, Activity ) %>% mutate(Value = 1 ) %>% set_colnames(c("Source", "Target", "Value")) 
+#Z = Test %>% select(Activity, Task ) %>% mutate(Value = 1 ) %>% set_colnames(c("Source", "Target", "Value")) 
+
+Test = rbind(X,Y) 
+rm(X,Y)
+
+# From these flows we need to create a node data frame: it lists every entities involved in the flow
+nodes <- data.frame( name=c(as.character(Test$Source), as.character(Test$Target)) %>% unique())
+
+# With networkD3, connection must be provided using id, not using real name like in the links dataframe.. So we need to reformat it.
+Test$IDsource <- match(Test$Source, nodes$name)-1 
+Test$IDtarget <- match(Test$Target, nodes$name)-1
+
+```
+
+
+```{r include=TRUE, fig.width=10, fig.height=15}
+network=
+sankeyNetwork(Links = Test, Nodes = nodes,
+              Source = "IDsource", Target = "IDtarget", 
+              Value = "Value", NodeID = "name",  fontSize = 15, #LinkGroup="Group",# NodeGroup="Group",
+              sinksRight=FALSE,
+              nodeWidth = 30,
+              height = 1500,
+              width = 1500,
+              nodePadding = 1
+              )
+
+saveNetwork(network, "test.html", selfcontained = TRUE)
+network
+```
