@@ -1,8 +1,9 @@
 ---
-title: "INEDIT- WP4"
-description: |
-  INEDIT <br/>
-  Projet de recherche ERPI
+title: "Framework of a replicable Open Manufacturing Demonstration Facility supporting the INEDIT process"
+subtitle: "D4.3. Monitoring and assessment of the demonstrator’s deployment based on the framework [UL] (M28)" 
+description: | 
+  Scientific and technical writing, native to the web
+date: "`r Sys.Date()`"
 author:
   - first_name: "Laurent"
     last_name: "Dupont"
@@ -46,22 +47,22 @@ author:
     affiliation: ERPI
     affiliation_url: https://erpi.univ-lorraine.fr/
     #orcid_id: 0000-0001-6328-1338
-#bibliography: library.bib
-#csl: journal-of-cleaner-production.csl
-link-citations: yes
-linkcolor: blue 
-site: distill::distill_website
+#bibliography: biblio.bib
+output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+
+
+```
+
+```{r}
+
 ```
 
 
-# Objectives
+```{r}
 
-- O.4.1. Identify organizational and technological invariants for DIT OMDFs 
-- O.4.2. Create a demonstration framework for physical spaces which matter for the customer and SMEs
-- O.4.3. Implement a translation layers (open source) between the designs and the machines 
-- O.4.4. Implement and enrich by iteration our generic model of replicable OMDFs based on the feedbacks and data from the digital demonstrators (crowdsourcing online platform) and distributed physical and local demonstrators
-- O.4.5. Develop adapted use cases ➢ O.4.6. Provide the created DIT OMDF framework (link with WP7)
+```
+
