@@ -1,0 +1,1017 @@
+---
+AIMEN:
+  Title: 3D PRINTING OF WOOD
+  Role: AIMEN is a manufacturer of large wood components and small furniture using robotic
+    3D printing
+  Presentation:
+  - 'The 3D Printing of Wood project is a use case of the INEDIT demonstrator. It
+    takes the form of a physical infrastructure and a digital process pipeline. The
+    physical infrastructure will include:  a multinozzle printing head installed in
+    an industrial robotic arm, the auxiliary elements like a working bench and the
+    printing bed with incorporated heating elements, and an auxiliary extrusion line
+    to provide the wood-based filaments for 3D printing with the desired recipe. The
+    digital pipeline is able to transform furniture designed using the INEDIT platform
+    into a manufacturing strategy that allows for the seamless integration of 3D wood
+    printing.'
+  Objective: The objective is to be able to print large and arbitrarily complex wooden furniture
+    and to give the final piece different colours, textures and properties by modifying
+    the material recipe.
+  Innovations:
+    Robot-based Fusion Deposition Modelling (FDM):
+      Description:
+      - This technology allows the use of 3D printing for for small series of large
+        components with minimum required changes to the system in a very short time.
+      Stakeholders:
+      - AIMEN
+      - Fablabs
+      - 3D printing centers
+      - Robot system suppliers
+      - Furniture manufacturers
+      - Furniture repair companies
+      - Furniture refurbishment companies
+    Wood-based materials 3D printing:
+      Description:
+      - This technology uses materials that contain wood in 3D printing, which results
+        in printed pieces with a wood-like texture, colour, touch and smell.
+      Stakeholders:
+      - AIMEN
+      - Consumers
+      - 3D printing centers
+      - Material suppliers
+      - Material producers
+      - Furniture manufacturers
+      - Furniture repair companies
+      - Furniture refurbishment companies
+    Wood-based materials development for 3D printing:
+      Description:
+      - 'Filaments recipe will be adapted for a desired wood content, specific color
+        and adapted material performance. '
+      Stakeholders:
+      - AIMEN
+      - Consumers
+      - 3D printing centers
+      - Material suppliers
+      - Material producers
+      - Furniture manufacturers
+      - Furniture repair companies
+      - Furniture refurbishment companies
+  Results:
+  - Development of a modular and replicable Open Manufacturing Demonstration Facility
+    for furniture 3D printing in a DIT approach
+  - Proposal of a sustainability-driven design and manufacturing process
+
+  Participation DIT:
+   Experimentation:
+   - 
+   Prototyping:
+   - 3D printing offers the possibility of rapid prototyping, which is especially useful for 
+     designs in process and to check the designs
+   - 3D printing offers the possibility ofTesting finishing aspects and textures for a design.   
+   Test: 
+   - Testing finishing aspects and textures for a design.
+   Validation:
+   - 
+   Production:
+   - Production of short series or highly re-configurable items of furniture, as well as practically free-form designed items 
+   - Production of short series of furniture references for clients
+   - Production final products with complex shapes that cannot be manufactured by traditional means
+   - Production of customized furniture references. 
+   Use and Recycling:
+   - 
+  
+  Impact: 
+  - AIMEN wants to introduce the technologies and business models developed in this demonstrator 
+    to the business and companies in the region to boost the adoption of 3D printing technologies 
+    and local production.
+
+
+      
+  Matrix Impact:
+    Technical or technological innovations:
+      Energy / Climate: 
+        Energy: Yes
+        Materials and life cycle: Yes
+        Sustainable mobility: No
+      Ecosystemics:
+        Water management: Yes
+        Biodiversity: No
+        Waste / Material flow: Yes
+      Uses:
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: Yes
+        Health / Safety: No
+      Economical:
+        Bussiness model: Yes
+        Export: No
+      Creativity:
+        Culture: No
+        Digital: Yes
+        Participation: No
+
+    Social and organizational innovations:
+      Energy / Climate: 
+        Energy: No
+        Materials and life cycle: No
+        Sustainable mobility: No
+      Ecosystemics:
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: No
+      Uses:
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: Yes
+        Health / Safety: No
+      Economical:
+        Bussiness model: No
+        Export: No
+      Creativity:
+        Culture: No
+        Digital: No
+        Participation: Yes
+
+    Business Model:
+      Energy / Climate: 
+        Energy: No
+        Materials and life cycle: No
+        Sustainable mobility: No
+      Ecosystemics:
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: No
+      Uses:
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:
+        Bussiness model: Yes
+        Export: No
+      Creativity:
+        Culture: No
+        Digital: No
+        Participation: No
+
+    Governance:
+      Energy / Climate:   
+        Energy: No
+        Materials and life cycle: No
+        Sustainable mobility: No
+      Ecosystemics:  
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: No
+      Uses:  
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:  
+        Bussiness model: No
+        Export: No
+      Creativity:  
+        Culture: Yes
+        Digital: No
+        Participation: No
+
+    Relationship to the territory:
+      Energy / Climate:   
+        Energy: No
+        Materials and life cycle: Yes
+        Sustainable mobility: No
+      Ecosystemics:  
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: Yes
+      Uses:  
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:  
+        Bussiness model: Yes
+        Export: No
+      Creativity:  
+        Culture: No
+        Digital: No
+        Participation: No
+
+    New or existing sinergy:
+      Energy / Climate:   
+        Energy: No
+        Materials and life cycle: Yes
+        Sustainable mobility: No
+      Ecosystemics:  
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: Yes
+      Uses:  
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:  
+        Bussiness model: No
+        Export: No
+      Creativity:  
+        Culture: No
+        Digital: Yes
+        Participation: No
+
+    Integrated urban service:
+      Energy / Climate:     
+        Energy: No
+        Materials and life cycle: No
+        Sustainable mobility: No
+      Ecosystemics:    
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: No
+      Uses:    
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:    
+        Bussiness model: No
+        Export: No
+      Creativity:    
+        Culture: No
+        Digital: No
+        Participation: No
+
+    Prospective opening:
+      Energy / Climate:   
+        Energy: No
+        Materials and life cycle: No
+        Sustainable mobility: No
+      Ecosystemics:  
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: Yes
+      Uses:  
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: Yes
+        Health / Safety: No
+      Economical:  
+        Bussiness model: No
+        Export: No
+      Creativity:  
+        Culture: No
+        Digital: No
+        Participation: No
+    
+    Visibility and recognition:
+      Energy / Climate:   
+        Energy: No
+        Materials and life cycle: Yes
+        Sustainable mobility: No
+      Ecosystemics:  
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: No
+      Uses:  
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:  
+        Bussiness model: No
+        Export: No
+      Creativity:  
+        Culture: No
+        Digital: Yes
+        Participation: No
+
+UNNINOVA:
+  Title: Smartification
+  Role: UNINOVA is a provider of supportive solutions for the implementation of intelligent components 
+  Presentation:
+  - "The Smartification project is a use case of the INEDIT demonstrator. It focuses on the integration of intelligent objects connected to the furniture in order to make the user's life easier. It seeks to advance common manufacturing processes to become highly personalized and intelligent, thus contributing to a 4.0 manufacturing process that will foster the integration of furniture in an environment that becomes connected. Usage of smartification would range from environmental conditions (e.g. humidity, heat and movement) identifying critical situations (e.g. flooding, fire, earthquake) but can also assist in medical conditions (e.g. detecting a falling person or excessive permanence in bed or couch). The smart devices (comprised of autonomous hardware sensors capable of communication in IoT settings) can provide awareness of objects/environment conditions that surround the users, in order to enhance their quality of life and their user experience." 
+  Objective: "Provide a framework of smart objects to integrate to furniture for promoting a high level of customization according to the individual needs of customers "
+  Innovations:
+    Internet of Things (IoT): 
+      Description:
+      - Sensing and communication devices that connect with other devices generating data and information for providing service and applications.
+      Stakeholders:
+      - UNIN
+      - Customer
+      - Technology companies
+      - Hardware developers
+    API platform:
+      Description:
+      - Connect the furniture design with the smart device’s options available, manage the devices sensor data for analysis and evaluation, 
+        in order to create feedback in the form of usable information by the user, such as alerts about the well-being or critical situations.
+      Stakeholders:
+      - UNIN
+      - Customer
+      - Technology companies
+      - Hardware developers
+  Results:
+  - Provide a framework of smart objects to integrate to furniture for promoting a high level of customization according to the individual needs of customers
+  
+  Participation DIT:
+   Empathization:
+   - Determination of the users’ needs concerning sensors
+   Modeling:
+   - Input devices specifications and requirements 
+   Validation:
+   - Advice for adding sensors within the furniture
+   Raw material sourcing: 
+   - Supply of suitable components for the sensors
+   Production: 
+   - Integration of the suitable sensor in the final piece
+   Use and Recycling:
+   - Runtime supervision/support of the sensor’s services  (Without Recycling phase)
+  
+  Impact: 
+  - The impacted scale is mainly the building. The smartification is one feature among all the project modules/outcomes.
+
+
+      
+  Matrix Impact:
+    Technical or technological innovations:
+      Energy / Climate: 
+        Energy: Yes
+        Materials and life cycle: No
+        Sustainable mobility: No
+      Ecosystemics:
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: No
+      Uses:
+        Confort / Ambiance: Yes
+        Accommodation / Jobs / Service: Yes
+        Health / Safety: Yes
+      Economical:
+        Bussiness model: No
+        Export: No
+      Creativity:
+        Culture: No
+        Digital: Yes
+        Participation: Yes
+
+    Social and organizational innovations:
+      Energy / Climate: 
+        Energy: No
+        Materials and life cycle: No
+        Sustainable mobility: No
+      Ecosystemics:
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: No
+      Uses:
+        Confort / Ambiance: Yes
+        Accommodation / Jobs / Service: No
+        Health / Safety: Yes
+      Economical:
+        Bussiness model: No
+        Export: No
+      Creativity:
+        Culture: No
+        Digital: No
+        Participation: No
+
+    Business Model:
+      Energy / Climate: 
+        Energy: No
+        Materials and life cycle: No
+        Sustainable mobility: No
+      Ecosystemics:
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: No
+      Uses:
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:
+        Bussiness model: No
+        Export: No
+      Creativity:
+        Culture: No
+        Digital: No
+        Participation: No
+
+    Governance:
+      Energy / Climate:   
+        Energy: No
+        Materials and life cycle: No
+        Sustainable mobility: No
+      Ecosystemics:  
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: No
+      Uses:  
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:  
+        Bussiness model: No
+        Export: No
+      Creativity:  
+        Culture: No
+        Digital: No
+        Participation: No
+
+    Relationship to the territory:
+      Energy / Climate:   
+        Energy: No
+        Materials and life cycle: No
+        Sustainable mobility: No
+      Ecosystemics:  
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: No
+      Uses:  
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:  
+        Bussiness model: No
+        Export: No
+      Creativity:  
+        Culture: No
+        Digital: No
+        Participation: No
+
+    New or existing sinergy:
+      Energy / Climate:   
+        Energy: Yes
+        Materials and life cycle: No
+        Sustainable mobility: No
+      Ecosystemics:  
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: No
+      Uses:  
+        Confort / Ambiance: Yes
+        Accommodation / Jobs / Service: Yes
+        Health / Safety: Yes
+      Economical:  
+        Bussiness model: No
+        Export: No
+      Creativity:  
+        Culture: No
+        Digital: Yes
+        Participation: No
+
+    Integrated urban service:
+      Energy / Climate:     
+        Energy: No
+        Materials and life cycle: No
+        Sustainable mobility: No
+      Ecosystemics:    
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: No
+      Uses:    
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:    
+        Bussiness model: No
+        Export: No
+      Creativity:    
+        Culture: No
+        Digital: No
+        Participation: No
+
+    Prospective opening:
+      Energy / Climate:   
+        Energy: No
+        Materials and life cycle: No
+        Sustainable mobility: No
+      Ecosystemics:  
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: No
+      Uses:  
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:  
+        Bussiness model: No
+        Export: No
+      Creativity:  
+        Culture: No
+        Digital: No
+        Participation: No
+    
+    Visibility and recognition:
+      Energy / Climate:   
+        Energy: No
+        Materials and life cycle: No
+        Sustainable mobility: No
+      Ecosystemics:  
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: No
+      Uses:  
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:  
+        Bussiness model: No
+        Export: No
+      Creativity:  
+        Culture: No
+        Digital: No
+        Participation: No
+
+
+VERA:
+  Title: Smart Manufacture
+  Role: VERA acts as an innovation hub supporting the co-design steps, producing the furniture frame, assembling the final product and repairing the used products
+  Presentation:
+  - "The Flexible Wood Work Center project is a use case of the INEDIT demonstrator. It mobilizes actors capable of 
+     advising and guiding customers through the design phases, it proposes a translation of design ideas and production 
+     instructions and it develops a new generation woodworking system with a great flexibility, ease of use but low manufacturing 
+     cost and environmental impact for very small lots and just-in-time production." 
+  Objective: 
+  - A new generation woodworking system with a great flexibility, ease of use but low manufacturing cost 
+    and environmental impact for very small lots and just-in-time production.
+  Innovations:
+    Innovative woodworking processing: 
+      Description:
+      - Translate the obtained designs into production instructions.
+      Stakeholders:
+      - External designers  to drive customer ideas and needs towards functional and economically viable products
+      - Production and machine experts to align design with production constraints and advise customers (feasibility, materials, technologies)
+      - Suppliers to propose new panels, materials and components and treatment, equipment
+      - Production worker to build the custom product
+      - Installers to assemble the final product at the costumer site or to provide after sales services
+      - SCM to automate the programming of VERAGOUTH common working centres by importing CAD files and develop a next generation woodworking system
+    Flexible Woodworking system:
+      Description:
+      - Facilitate the small-scale production of custom wooden furniture 
+      Stakeholders:
+      - External designers  to drive customer ideas and needs towards functional and economically viable products
+      - Production and machine experts to align design with production constraints and advise customers (feasibility, materials, technologies)
+      - Suppliers to propose new panels, materials and components and treatment, equipment
+      - Production worker to build the custom product
+      - Installers to assemble the final product at the costumer site or to provide after sales services
+      - SCM to automate the programming of VERAGOUTH common working centres by importing CAD files and develop a next generation woodworking system
+
+  Results:
+  - Development of a Smart Manufacture in a DIT approach 
+  - Development of a tool, a decoupling point between a co-creation digital platform and the production instructions
+  - Proposal of a sustainability-driven design and manufacturing process 
+
+  
+  Participation DIT:
+   Empathization:
+   - A place for meeting with different stakeholders involved during the co-creation phase
+   Project definition:
+   - 
+   Prototyping:
+   - Advise of customers during the design phase to ensure the feasibility of their product’s manufacturing 
+     (information about wood production process, choice of the accessories and materials, economic impact of the choices)
+   - Feedback to the co-creation platform with new models/designs
+   
+   Validation:
+   - Production of furniture piece
+   Raw material sourcing: 
+   - Supply of suitable components for the sensors
+   Production: 
+   - Integration of the suitable sensor in the final piece
+   - Assembly of the furniture with pieces from the other use cases 
+     (recycled plastic components (UL), wood components (AIMEN), intelligent components (UNINOVA))  
+   - Use of several technologies from the other use case for the furniture production    
+   Use and Recycling:
+   - Runtime supervision/support of the sensor’s services  (Without Recycling phase)
+  
+   Transport:
+   - Transport of the final product
+   Delivery: 
+   - Delivery to the final customer, installation and test of the quality of the product 
+  
+  Impact: 
+  - I think we can be a “special Building”, where we can produce a furniture as a furniture manufacturer 
+    (we are only a building of the INEDIT system), but “special” because we have some “building ISLAND” characteristics; 
+    we have a centrality role for other “Buildings” (like for suppliers or like for the other use cases).
+    With our potential “innovation hub” we can also have an impact on the Neighbourhood or the 
+    District for the INEDIT system in the Ticinio region of Switzerland.
+ 
+
+
+
+  Matrix Impact:
+    Technical or technological innovations:
+      Energy / Climate: 
+        Energy: No
+        Materials and life cycle: Yes
+        Sustainable mobility: No
+      Ecosystemics:
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: Yes
+      Uses:
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:
+        Bussiness model: Yes
+        Export: No
+      Creativity:
+        Culture: No
+        Digital: No
+        Participation: Yes
+    Social and organizational innovations:
+      Energy / Climate: 
+        Energy: No
+        Materials and life cycle: No
+        Sustainable mobility: Yes
+      Ecosystemics:
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: No
+      Uses:
+        Confort / Ambiance: Yes
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:
+        Bussiness model: Yes
+        Export: No
+      Creativity:
+        Culture: Yes
+        Digital: Yes
+        Participation: Yes
+    Business Model:
+      Energy / Climate: 
+        Energy: No
+        Materials and life cycle: No
+        Sustainable mobility: No
+      Ecosystemics:
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: No
+      Uses:
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: Yes
+        Health / Safety: No
+      Economical:
+        Bussiness model: Yes
+        Export: No
+      Creativity:
+        Culture: Yes
+        Digital: Yes
+        Participation: Yes
+    Governance:
+      Energy / Climate:   
+        Energy: No
+        Materials and life cycle: No
+        Sustainable mobility: Yes
+      Ecosystemics:  
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: No
+      Uses:  
+        Confort / Ambiance: Yes
+        Accommodation / Jobs / Service: Yes
+        Health / Safety: No
+      Economical:  
+        Bussiness model: Yes
+        Export: Yes
+      Creativity:  
+        Culture: Yes
+        Digital: No
+        Participation: No
+    Relationship to the territory:
+      Energy / Climate:   
+        Energy: No
+        Materials and life cycle: Yes
+        Sustainable mobility: Yes
+      Ecosystemics:  
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: No
+      Uses:  
+        Confort / Ambiance: Yes
+        Accommodation / Jobs / Service: Yes
+        Health / Safety: No
+      Economical:  
+        Bussiness model: Yes
+        Export: Yes
+      Creativity:  
+        Culture: Yes
+        Digital: Yes
+        Participation: Yes
+    New or existing sinergy:
+      Energy / Climate:   
+        Energy: No
+        Materials and life cycle: No
+        Sustainable mobility: Yes
+      Ecosystemics:  
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: No
+      Uses:  
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:  
+        Bussiness model: Yes
+        Export: Yes
+      Creativity:  
+        Culture: Yes
+        Digital: Yes
+        Participation: Yes
+    Integrated urban service:
+      Energy / Climate:     
+        Energy: No
+        Materials and life cycle: No
+        Sustainable mobility: Yes
+      Ecosystemics:    
+        Water management: Yes
+        Biodiversity: No
+        Waste / Material flow: Yes
+      Uses:    
+        Confort / Ambiance: Yes
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:    
+        Bussiness model: Yes
+        Export: No
+      Creativity:    
+        Culture: Yes
+        Digital: No
+        Participation: Yes
+    Prospective opening:
+      Energy / Climate:   
+        Energy: No
+        Materials and life cycle: Yes
+        Sustainable mobility: No
+      Ecosystemics:  
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: Yes
+      Uses:  
+        Confort / Ambiance: Yes
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:  
+        Bussiness model: Yes
+        Export: No
+      Creativity:  
+        Culture: Yes
+        Digital: Yes
+        Participation: No
+    Visibility and recognition:
+      Energy / Climate:   
+        Energy: No
+        Materials and life cycle: No
+        Sustainable mobility: Yes
+      Ecosystemics:  
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: Yes
+      Uses:  
+        Confort / Ambiance: Yes
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:  
+        Bussiness model: Yes
+        Export: Yes
+      Creativity:  
+        Culture: Yes
+        Digital: No
+        Participation: Yes
+
+
+UL:
+  Title: Distributed Recycling for 3D Printing
+  Role: UL is a supplier of recycled plastic components and 3D recycled plastic equipment
+  Presentation:
+  - The 3D Printing of Recycled Plastic project is a use case of the INEDIT demonstrator. 
+    It focuses on the recycling of plastic materials (technical and logistical feasibility) 
+    to produce prototypes and simple and personalised objects for furniture (ornaments and repairs). 
+    It involves local stakeholders and must identify the differences in plastic sources, 
+    considering the variability/heterogeneity of the plastic waste to be reused and its initial conditions. 
+  Objective: 
+  - Provide a framework of smart objects to integrate to furniture for promoting a high level of customization according to the individual needs of customers 
+  Innovations:
+    Distributed Recycling via Additive Manufacturing (DRAM): 
+      Description:
+      - Use of recycled materials by means of mechanical recycling in the printing process chain. 
+        Ideally from local sources (<2km) in function of the quantity and availability 
+      Stakeholders:
+      - UL for the development of a physical co-creation platform and the 3D printing of recycled plastic 
+      - Designers as intermediate (technical) validators
+      - Furniture producers
+      - PMEs of UL territory for providing plastic waste to be reused
+      - Users
+    Smart collector of plastic wastes:
+      Description:
+      - Local plastic waste identification and selection using out-of-use electrical open hardware in 
+        urban environments 
+      Stakeholders:
+      - UL for the development of a physical co-creation platform and the 3D printing of recycled plastic 
+      - Designers as intermediate (technical) validators
+      - Furniture producers
+      - PMEs of UL territory for providing plastic waste to be reused
+      - Users
+      
+  Results:
+  - Development of a replicable Open Manufacturing Demonstration Facility for furniture 3D printing in a DIT approach.
+  - Development of a pilot recycling platform based on an open design approach.
+  - Proposal of a sustainability-driven design and manufacturing process.
+  - Proposition of a cartography of potential plastic wastes based on data that could be recollected from a smart plastic collector.
+
+  
+  Participation DIT:  
+    Empathization: Formalization of the customers’ problem
+    Project definition: Definition of the project’s scope
+    Ideation: Support of the customers in ideas generating
+    Prototyping: Production of prototype for validation
+    Validation: Proposition of customized object for personalisation 
+    Raw material sourcing: Collection of the sources of plastics that can be processed
+    Transport: Management of the transport of identified plastics
+    Production: Transformation of the potential usable plastic wastes in functional objects
+    Recycling: Recycling of the waste plastics
+    Maintenance: Production of spare part for reparability
+
+  Impact: 
+  - The expected scale impacted is at Neighbourhood. One of the main drawbacks of the recycling process in 
+    the embodied cost of transport, sorting and cleaning process of the recycled assets. 
+    In a first moment, the main idea is to identify recycled assets that can be recycled, if and only if, 
+    they are close to the recycled facilities and in a low contamination level, where processes of cleaning 
+    can be implemented locally.
+    In a Neighbourhood scale, the mean of transport considered to collect the recycled material are intended 
+    to produce low environmental impact (reduced of C02). Today, the printing rate is of commercial desktop 3D printer is relatively low (about 20-50 gr/h). The idea with INEDIT project is to mount this value to about 1-2 kg/h, and based on this value, to establish indices of logistic supply 
+
+
+  Matrix Impact:
+    Technical or technological innovations:
+      Energy / Climate: 
+        Energy: Yes
+        Materials and life cycle: Yes
+        Sustainable mobility: No
+      Ecosystemics:
+        Water management: Yes
+        Biodiversity: No
+        Waste / Material flow: Yes
+      Uses:
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: Yes
+        Health / Safety: Yes
+      Economical:
+        Bussiness model: Yes
+        Export: No
+      Creativity:
+        Culture: No
+        Digital: No
+        Participation: Yes
+    Social and organizational innovations:
+      Energy / Climate: 
+        Energy: No
+        Materials and life cycle: Yes
+        Sustainable mobility: Yes
+      Ecosystemics:
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: Yes
+      Uses:
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:
+        Bussiness model: Yes
+        Export: No
+      Creativity:
+        Culture: No
+        Digital: No
+        Participation: No
+    Business Model:
+      Energy / Climate: 
+        Energy: No
+        Materials and life cycle: Yes
+        Sustainable mobility: No
+      Ecosystemics:
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: Yes
+      Uses:
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:
+        Bussiness model: Yes
+        Export: No
+      Creativity:
+        Culture: No
+        Digital: No
+        Participation: No
+    Governance:
+      Energy / Climate:   
+        Energy: No
+        Materials and life cycle: Yes
+        Sustainable mobility: No
+      Ecosystemics:  
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: Yes
+      Uses:  
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:  
+        Bussiness model: No
+        Export: No
+      Creativity:  
+        Culture: No
+        Digital: No
+        Participation: No
+    Relationship to the territory:
+      Energy / Climate:   
+        Energy: No
+        Materials and life cycle: No
+        Sustainable mobility: No
+      Ecosystemics:  
+        Water management: No
+        Biodiversity: Yes
+        Waste / Material flow: No
+      Uses:  
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:  
+        Bussiness model: No
+        Export: No
+      Creativity:  
+        Culture: No
+        Digital: No
+        Participation: No
+    New or existing sinergy:
+      Energy / Climate:   
+        Energy: No
+        Materials and life cycle: Yes
+        Sustainable mobility: No
+      Ecosystemics:  
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: Yes
+      Uses:  
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:  
+        Bussiness model: No
+        Export: No
+      Creativity:  
+        Culture: No
+        Digital: No
+        Participation: No
+    Integrated urban service:
+      Energy / Climate:     
+        Energy: No
+        Materials and life cycle: Yes
+        Sustainable mobility: No
+      Ecosystemics:    
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: Yes
+      Uses:    
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:    
+        Bussiness model: No
+        Export: No
+      Creativity:    
+        Culture: No
+        Digital: No
+        Participation: No
+    Prospective opening:
+      Energy / Climate:   
+        Energy: No
+        Materials and life cycle: No
+        Sustainable mobility: No
+      Ecosystemics:  
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: Yes
+      Uses:  
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:  
+        Bussiness model: No
+        Export: No
+      Creativity:  
+        Culture: No
+        Digital: No
+        Participation: No
+    Visibility and recognition:
+      Energy / Climate:   
+        Energy: No
+        Materials and life cycle: Yes
+        Sustainable mobility: No
+      Ecosystemics:  
+        Water management: No
+        Biodiversity: No
+        Waste / Material flow: Yes
+      Uses:  
+        Confort / Ambiance: No
+        Accommodation / Jobs / Service: No
+        Health / Safety: No
+      Economical:  
+        Bussiness model: No
+        Export: No
+      Creativity:  
+        Culture: No
+        Digital: No
+        Participation: Yes
