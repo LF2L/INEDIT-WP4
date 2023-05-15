@@ -19,7 +19,6 @@ output:
   flexdashboard::flex_dashboard:
     orientation: rows
     logo: www/images/favicon.jpg
-#    logo: [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
     vertical_layout: scroll
     social: menu
 #date: "Version of the Document:  `r format(Sys.time(), '%d %B, %Y')`" 
@@ -27,6 +26,10 @@ output:
 editor_options: 
   chunk_output_type: console
 ---
+
+<script>
+$('.navbar-logo').wrap('<a href="https://www.inedit-project.eu/" target=_blank>');
+</script>
 
 ```{r setup, include=FALSE}
 
