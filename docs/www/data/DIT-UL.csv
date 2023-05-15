@@ -1,0 +1,203 @@
+Process;Activity;Task;Involved stakeholders;Input;Output;Technology/ Equipment;Technology's maturity;Skills;Skills' maturity;Practices
+Empathization;Observe;Communicate;NA;NA;NA;NA;NA;NA;NA;NA
+Empathization;Observe;Search/Understand the problem;NA;NA;NA;NA;NA;NA;NA;NA
+Empathization;Identify;Analyse conscious and unconscious user needs;NA;NA;NA;NA;NA;NA;NA;NA
+Empathization;Identify;Identify designing constraints;NA;NA;NA;NA;NA;NA;NA;NA
+Manufacturing;Check the feasibility of the specification;NA;"1) Designer
+2) Technical staff LF2L";"CAD
+Material
+Machine";"Validation of feasibility
+Eventual identification of unvalidated specifications";"PC,
+Software machine
+Software CAD";Mature;"CAD knowledge
+Knowledge Software machine parameters
+";Emerging;"1) Estimate the time
+2) Definition of technology
+3) Material compatibility
+4) Cost estimation"
+Manufacturing;Provide a technical assistance;NA;Technical staff LF2L;Technical Issue;Fix and/or improvement machine production;"Tools mechanical
+Electrical tools
+Spare parts
+Machine Information";Emerging;Polyvalence on technical background;Emerging;"Determination of the cause of the issue
+Validate the diagnostic
+Search for information of the issue
+"
+Manufacturing;Identify the manufacturing, assembly operations from the instructions (drawings, bill of material…);NA;"Designer
+Technical staff LF2L";"Bill of materials
+CAD assembly
+Electrical connections
+Software requirements";Identification of assembly steps;PC;Emerging;"Interpretation of Bill of material
+Construction, make adjustment to the BOM
+Technical drawing";Emerging;1) Conformity with the order
+Manufacturing;Select materials and components for manufacturing;NA;"Designer
+Technical staff LF2L";Desing requirements;Desicion = Yes or Not;"PC
+Software simulatino";Emerging;"CAD knowledge
+Knowledge Software machine parameters
+Manufacturing tunning";Emerging;"1) Experimentation
+2) Technical Experience"
+Manufacturing;Build up the stock of raw materials and components;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Manufacturing;Manufacture the product/component;NA;Technical staff LF2L;"CAD
+Material
+Machine
+Energy";"Recycled printed product
+Recycled injected product";"3D printer
+Manual Injection machine
+Laser-cut
+Sofware modelling";Emerging;"3D and 2D modelization
+Parameter tunning";Emerging;"1) Establish good configuration of the machine
+2) Adjust printer / injectino parameters
+3)Supervision of machine"
+Manufacturing;Carry out the finishes of a work;NA;Technical staff LF2L;"Printed part
+Injection part";Part with improvements in finished adjustments;"Cutter
+sandpapers
+small knife
+Rotatory tools";Mature;Manual skills;Mature;"1) Manual adjust of printed part
+2) remove excedent material"
+Manufacturing;Check the stability, the dimension of the product;NA;Designer;finished part;"real dimension
+Conformity validation";"Metrology tools
+PC";Mature;"Knowledge metrology
+Analysis of data";Mature;"1) Compare the real value with theoretical valus ffrom CAD
+2) Identify major difference"
+Packaging;Package the product;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Packaging;Check the conformity of the product;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Packaging;Label the product;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Packaging;Transport products to shipping area;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Handling;Ship products;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Handling;Sort and distribute products according to the indication;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Handling;Move the product to the storage area;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Handling;Unload products;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Transport;Define a route according to delivery instructions;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Transport;Organize the transfer and delivery of the product;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Sales;Receive the product;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Sales;Check the conformity of the product;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Sales;Store the product;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Sales;Receive the payment;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Order Preparation;Pick materials according to the order preparation instructions;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Order Preparation;Ship the package;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Order Preparation;Transport goods to the shipping areas;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Order Preparation;Inform the order tracking and transmit a status of product;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Assembly;Identify assembly operations from instruction;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Assembly;Position the part preliminary;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Assembly;Assembly and fix the elements in the order of assembly;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Assembly;Assembly the product;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Assembly;Check the conformity and make adjustments;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Assembly;Carry out an activity follow-up;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Failure detection;Identify the defective part or components;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Failure detection;Identify whether repair is feasible;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Maintenance;Identify the defective part or components;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Maintenance;Draw up an estimate;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Maintenance;Determine a response time;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Maintenance;Define supply requirements;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Maintenance;Replace or repair the defective part;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Maintenance;Check the operating status of the product;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Recycle;Identify the type of materials of the damaged parts;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Recycle;Sort and direct defective parts to disposal area;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Recycle;Sort and direct defective parts to recycle;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Project definition;Define a scope;Concert with the involved stakeholders;NA;NA;NA;NA;NA;NA;NA;NA
+Project definition;Define a scope;Formulate a point of view;NA;NA;NA;NA;NA;NA;NA;NA
+Project definition;Stabilize a shared vision;Confront requirements, needs and constraints;NA;NA;NA;NA;NA;NA;NA;NA
+Project definition;Stabilize a shared vision;Hypothesize;NA;NA;NA;NA;NA;NA;NA;NA
+Ideation;Generate Ideas;Brainstorm;NA;NA;NA;NA;NA;NA;NA;NA
+Ideation;Generate Ideas;Organize/Pool Ideas;NA;NA;NA;NA;NA;NA;NA;NA
+Ideation;Identify opportunities;Generate solutions;NA;NA;NA;NA;NA;NA;NA;NA
+Ideation;Identify opportunities;Validate and decide;NA;NA;NA;NA;NA;NA;NA;NA
+Modelling;Choose technical, aesthetic and economic options;Examine the functionalities of the product;NA;NA;NA;NA;NA;NA;NA;NA
+Modelling;Choose technical, aesthetic and economic options;Select materials;NA;NA;NA;NA;NA;NA;NA;NA
+Modelling;Present a model/mock-up;Draw the preliminary drafts;NA;NA;NA;NA;NA;NA;NA;NA
+Modelling;Present a model/mock-up;Validate with the users;NA;NA;NA;NA;NA;NA;NA;NA
+Prototyping;Implement the prototype;Select material;"1)Designer
+2) 3D printing Technical staff, 3)Waste supplier";CAD model, waste feedstock available;Definition of type material;Shredding machine (Mature), Cleaning operations (Emergin), Smart collector (Emerging);Emerging;1)Initial quality evaluation                                                                                                                                                                                                                                                               2)Identify type of plastics                                                                                                                                                                                                                       3)Logistical organization of the supply                                                                                                                                                                                                                        4)Cleaning processes;Mature;"1)Collect the waste material from the local sources.
+2)Make pre-treatment process to clean the waste material.
+3)Sort material by type/color
+4)Stock the material
+5)Update the inventory on the waste material usable."
+Prototyping;Implement the prototype;Launch the prototype elaboration;3D printing Technical staff;"1) Definition of the purpose of the prototype
+2) CAD Model, 
+3) Usable recycled material";"1) Printed / Injected part
+2) Technical information the printed part (Dimensions, Type material)";"3D printer
+Manual Injection machine";Emerging;"1) Design for Additive Manufacturing 
+2) Injection moulding design";Emerging;"1) Identification of the operational  conditions for each printable material
+2) Modelling in CAD
+3) 3D printing Chain (Slicing conditions)
+4) Reparability of the machine
+5) Post-processing operations"
+Prototyping;Make technical tests;Inspect the resulting prototype;"1) Designer, 
+2) User/Consumer/Customer";Printed part, Original technical requirements;"1) Technical results
+2) Evaluation output
+3) Desicion on acceptance or not of the part";"1) Objective evaluation (e.g structural tests as mechanical properties)
+2) Subjective evaluation (e.g. user acceptability)";Mature;1) Realization of protocols test;Mature;"1) Machine operations 
+2) Communication / reporting of results
+3) Analysis of failures"
+Prototyping;Make technical tests;Determine corrective actions;"1) Designer, 
+2) 3D printing Technical staff";"1) CAD Model, 
+2) (Same or New) waste feedstock available";"1) New printed part
+2) Additives to improve material's quality";3D Printer / Injection moulding;Emerging;"1) Design for Additive Manufacturing 
+2) Injection moulding design";Emerging;1) Redesign component by form, material or process
+Validation;Validate the product specification;Use the product in real-life situation;NA;NA;NA;NA;NA;NA;NA;NA
+Validation;Validate the product specification;Validate the successful functioning of the product;NA;NA;NA;NA;NA;NA;NA;NA
+Validation;Define the marketing approach;Realize a market study;NA;NA;NA;NA;NA;NA;NA;NA
+Validation;Define the marketing approach;Define a marketing strategy;NA;NA;NA;NA;NA;NA;NA;NA
+Validation;Define the mass-customization process;Configure the product or part of the product pre-purchase;NA;NA;NA;NA;NA;NA;NA;NA
+Validation;Define the mass-customization process;Customize a part of the product after purchase;NA;NA;NA;NA;NA;NA;NA;NA
+Validation;Elaborate and transmit the production order;Elaborate the production order;NA;NA;NA;NA;NA;NA;NA;NA
+Validation;Elaborate and transmit the production order;Transmit the production order;NA;NA;NA;NA;NA;NA;NA;NA
+Order reception;Receive the order;NA;3D printer technical staff;Model CAD;Acceptance or Not of the order;PC with 3D printer Software;Mature;Evaluation of the printed part / Recycled part;Mature;"1) Validation of the Availability of material
+2) Check for congruent dimensions and requeriments"
+Order reception;Check the conformity of the order;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Production management;Plan the production according to flow, deadline, supply;NA;"1) Technical  staff LF2L, 
+";"1) Design brief
+2) # Orders";"1) Validation of the order
+2) Add task to Global Planning du LF2L";PC;Mature;"1) Management of ressources
+2) Quote";Mature;"1) Feasibility validation of the order 
+2) Validation of the equipement availability
+and raw materials"
+Production management;Analyse production activity data;NA;1) Technical staff LF2L;1) Information on global production tasks;1) Info on availability and remaining production space;PC;Mature;1) TIC;Mature;1) This task is made before accept new orders
+Production management;Define the modality of the product industrialization;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Production management;Check the conformity of the product;NA;"1) Technical staff LF2L 
+2) Custormer / client";"1) Manufactured part
+2) Design brief";Evaluation of the piece;"1) Metrology tools
+2) Visual observation";Mature;1) Knowledge on quality evaluation of printed, recycled parts;Emerging;"1) Validation
+2) Definition if re-design or improvement"
+Production management;Provide a technical assistance;NA;1) Technical staff;1) Technical issue;"1) Identification and estimation of technical issues
+2) Identification of spare part  to buy";"1) Observation of part quality and machin functioning
+2) Machine monitoring";Emerging;"1) Machine reparation 
+2) Mechanical / Electronical knowledge";Emerging;"1) Find machine documentations and online sources for repairing issues
+"
+Purchase;Define supply needs;NA;1) Technical staff LF2L;"1) Order
+2) Stock level";1) Estimation of needs;PC;Mature;"TIC
+Knowledge of materials database";Emerging;"1) Update and technological watch (online, web survey)
+2) Call for suppliers to know their products"
+Purchase;Identify suppliers;NA;1) Technical staff LF2L;"1) Public Procurement 
+2) Transversal Procurement (Validated by UL)";"1) Selection of potential suppliers
+2) Administrative internal documents UL";PC;Mature;TIC;Mature;"1) Identification of acceptable supplier under UL contraints
+"
+Purchase;Make a call for tenders;NA;"1) Technical staff LF2L
+2) Administrative UL";1) Direct contact (email, tel);"1) Three quotes at least
+2) Answer of tenders to identify timming delivery, Price, technical specifications";"PC
+Telephone";Mature;"Negotiation
+Patiente, Abnegation
+Technical background to understand the disponible composants";Emerging;"1) Call
+2) Summaring the options
+3) First filtering of the tenders"
+Purchase;Draw up a specification;NA;1) Technical staff LF2L;"1) Object / Part requirement 
+2) Design brief
+3) Bill of Material";"1) Quantitative requirement
+2) Qualitative requirements
+3) Availability";PC;Mature;"Market knowlege
+Technological knowledge to  establish factibility";Emerging;1) Discussion with the supplier to arrive a agreement among specifications and options
+Purchase;Analyse the answer to the call for tenders;NA;1) Technical staff LF2L;1) Quotes received from tenders;1) Estalish hierarchy of suppliers;"PC
+";Mature;Critical skills;Emerging;"1) Establish the criteria to hierarchy the tenders
+2) Compile the evaluation criteria"
+Purchase;Evaluate and choose the supplier;NA;"1) Administrative UL
+";1) Confirmity of supplier under public procurement rules;1) Desicion of tender option;PC;Mature;"TIC
+Use internal documents UL";Mature;1) Establish the order identification according the UL standard
+Purchase;Negotiate price and a contract;NA;1) Administrative UL;"1) Quote
+2) Negociated price";1) Realization of public procurement;PC;Mature;"TIC
+Use internal documents UL";Mature;1) Establish the order identification according the UL standard
+Purchase;Trigger the order (dimension, creation, send...);NA;1) Administrative UL;"1) Budget availability
+2) Burocratic validation (UL)";1) Order bond;PC;Mature;"TIC
+Use internal documents UL";Mature;1) Establish the order identification according the UL standard
+Purchase;Track and monitor the order;NA;1) Technical staff LF2L;"1) # Number identification
+2) tracking number";1) Information of deliverary delay;PC;Mature;TIC;Mature;"1) Verification of update
+2) Planification of reception
+3) Evaluate conformity"

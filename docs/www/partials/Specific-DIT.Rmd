@@ -1,0 +1,11 @@
+```{r Table, include=TRUE}
+
+# Option 1: Tabla
+DIT %>%  datatable (.,  rownames = T ,  options = list(lengthMenu = c(1,2, 5, 10, 20), pageLength = 1, autoWidth = TRUE)) 
+       
+# Option 2: Dendograma
+#DIT = tibble(DIT)
+#collapsibleTreeSummary( DIT, hierarchy= c("Phase", "Process", "Activities", "Activities.Def", "Tasks", "Tasks.Def"), width = 4000, zoomable = TRUE, fontSize = 15)
+
+```
+

@@ -1,67 +1,258 @@
 ---
-title: "INEDIT- WP4"
-description: |
-  INEDIT <br/>
-  Projet de recherche ERPI
-author:
-  - first_name: "Laurent"
-    last_name: "Dupont"
-    url: https://erpi.univ-lorraine.fr/people/Laurent-Dupont/
-    affiliation: ERPI
-    affiliation_url: https://erpi.univ-lorraine.fr/
-    orcid_id: 0000-0002-8279-9690  
-  - first_name: "Fréderique"
-    last_name: "Mayer"
-    url: https://erpi.univ-lorraine.fr/people/Frederique-Mayer/
-    affiliation: ERPI
-    affiliation_url: https://erpi.univ-lorraine.fr/
-    orcid_id:     
-  - first_name: "Hakim"
-    last_name: "Boudaoud"
-    url: https://erpi.univ-lorraine.fr/people/Hakim-Boudaoud/
-    affiliation: ERPI
-    affiliation_url: https://erpi.univ-lorraine.fr/
-    orcid_id: 0000-0003-4452-5952
-  - first_name: "Fabio"
-    last_name: "Cruz"
-    url: https://erpi.univ-lorraine.fr/people/Fabio-Cruz/
-    affiliation: ERPI
-    affiliation_url: https://erpi.univ-lorraine.fr/
-    orcid_id: 0000-0001-8529-5327
-  - first_name: "Fedoua"
-    last_name: "Kasmi"
-    url: https://erpi.univ-lorraine.fr/people/Fedoua-Kasmi/
-    affiliation: ERPI
-    affiliation_url: https://erpi.univ-lorraine.fr/
-    orcid_id: 0000-0001-5159-0264
-  - first_name: "Brunelle"
-    last_name: "Marche"
-    url: https://erpi.univ-lorraine.fr/people/Brunelle-Marche/
-    affiliation: ERPI
-    affiliation_url: https://erpi.univ-lorraine.fr/
-    #orcid_id: 0000-0001-6328-1338
-  - first_name: "Alex"
-    last_name: "Gabriel"
-    url: https://erpi.univ-lorraine.fr/people/Alex-Gabriel/
-    affiliation: ERPI
-    affiliation_url: https://erpi.univ-lorraine.fr/
-    #orcid_id: 0000-0001-6328-1338
-#bibliography: library.bib
-#csl: journal-of-cleaner-production.csl
-link-citations: yes
-linkcolor: blue 
-site: distill::distill_website
+title: " INEDIT"
+# output: 
+#   html_document:
+#     css: "www/css/template.css"
+#     number_sections: true
+#     toc: true
+#     toc_float:
+#       collapsed: false
+#       smooth_scroll: false
+#     toc_depth: 2
+#     includes:
+#       in_header: www/partials/header.html
+# #      before_body: Final-docs/Template.html
+#       after_body: www/partials/footer.html          
+  #    includes:
+#      in_header: Final-docs/partials/header.html
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    logo: www/images/favicon.jpg
+    vertical_layout: scroll
+    social: menu
+#date: "Version of the Document:  `r format(Sys.time(), '%d %B, %Y')`" 
+#author: "Université de Lorraine"
+editor_options: 
+  chunk_output_type: console
 ---
 
+<script>
+$('.navbar-logo').wrap('<a href="https://www.inedit-project.eu/" target=_blank>');
+</script>
+
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+
+knitr::opts_chunk$set(echo = FALSE,  include=FALSE, warning = FALSE, message = FALSE)
+
+source("www/partials/00-config.R")
+source("www/partials/01-databases.R")
+source("www/partials/02-global-description.R")
+source("www/partials/03-goals.R")
+source("www/partials/04-matrix-impact.R")
+source("www/partials/05-global-matrix-impact.R")
+source("www/partials/06-indepth-analysis.R")
+source("www/partials/07-innovations.R")
 ```
 
 
-# Objectives
+# Goal {.sidebar data-icon="fa-signal"}
+**Goal of WP 4.1 :**
 
-- O.4.1. Identify organizational and technological invariants for DIT OMDFs 
-- O.4.2. Create a demonstration framework for physical spaces which matter for the customer and SMEs
-- O.4.3. Implement a translation layers (open source) between the designs and the machines 
-- O.4.4. Implement and enrich by iteration our generic model of replicable OMDFs based on the feedbacks and data from the digital demonstrators (crowdsourcing online platform) and distributed physical and local demonstrators
-- O.4.5. Develop adapted use cases ➢ O.4.6. Provide the created DIT OMDF framework (link with WP7)
+> The main purpose of task 4.1 is to describe and define the needs of each demonstrator in order to establish a common base. Thus, each physical demonstrator shall be observed, and specific data of the processes shall be collected with the purpose to create a holistic framework of open manufacturing demonstration facility.
+
+
+
+
+![EU](www/images/EU-logo.png){width='30px'}
+This project has received funding from the European Union’s H2020 research and innovation programme under Grant Agreement N 869952.
+
+
+<a href = "https://erpi.univ-lorraine.fr/">Made by Université de Lorraine</a>
+
+# DIT {data-icon="fa-bullseye"}
+## Row {.tabset .tabset-fade}
+### Global DIT process
+
+![Do-It-Together Process](www/images/DIT.svg)
+
+### Interactive DIT Process
+```{r child = "www/partials/DIT/01-figure-interactive.Rmd"}
+```
+
+### Specific DIT Process
+```{r child = "www/partials/Specific-DIT.Rmd"}
+```
+
+
+
+# Global analysis {data-icon="fa-diagnoses"} 
+## Row {.tabset .tabset-fade}
+
+### Impact Matrix    
+```{r, include=TRUE, fig.height=10, fig.width=10, fig.align='center'}
+matrix = Data %>% map("Matrix Impact")
+global.matrix.impact (matrix)
+```
+
+
+### Global DIT Vs. Use cases
+
+```{r child="www/partials/DIT/02-fig-dit-usercases-global.Rmd"}
+```
+
+
+### Specific DIT Vs. Use cases
+
+```{r}
+# Loading the data from Excel
+path <- "www/data/II/"
+file_names <- paste0(path, list.files(path = path, pattern="*.xlsx"))
+
+
+
+# List of data from the consortium
+UNIN  <- lapply(excel_sheets(file_names[1]), read_excel, path = file_names[1]) %>% In.depth.analysis(. , Partner = "UNIN")
+AIMEN <- lapply(excel_sheets(file_names[2]), read_excel, path = file_names[2]) %>% In.depth.analysis(. , Partner = "AIMEN")
+SCM  <- lapply(excel_sheets(file_names[3]), read_excel, path = file_names[3]) %>% In.depth.analysis(. , Partner = "SCM")
+UL  <- lapply(excel_sheets(file_names[5]), read_excel, path = file_names[5]) %>% In.depth.analysis(. , Partner = "UL")
+VERA  <- lapply(excel_sheets(file_names[6]), read_excel, path = file_names[6]) %>% In.depth.analysis(. , Partner = "VERA")
+
+Test = rbind(UNIN, AIMEN, SCM, UL, VERA)
+rm(path, file_names, UNIN, AIMEN, SCM, UL, VERA)
+
+
+```
+
+
+```{r child ="www/partials/DIT/03-fig-dit-usercases-specific.Rmd"}
+
+```
+
+
+
+
+
+
+# AIMEN  {data-icon="fa-id-card"}
+
+Row {.tabset .tabset-fade}
+-------------------------------------
+   
+### Global Description
+
+```{r, include=TRUE}
+Test = Data %>%  pluck("AIMEN") 
+global.description(Test)
+```
+
+
+### Expected results
+```{r, results='asis', include=TRUE}
+goals(Test)
+```
+
+
+### Innovations
+```{r, include= TRUE}
+innovations(Test)
+```
+
+
+### Impacts
+```{r, include=TRUE, fig.height=8, fig.width=10, fig.align='center'}
+matrix = Test$`Matrix Impact`
+matrix.impact(matrix)
+```
+
+
+
+
+
+# UL  {data-icon="fa-id-card"}
+## Row {.tabset .tabset-fade}
+
+### Global Description
+```{r, include=TRUE}
+Test = Data %>%  pluck("UL") 
+global.description(Test)
+```
+
+
+### Expected results
+```{r, results='asis', include=TRUE}
+goals(Test)
+```
+
+
+### Innovations
+```{r, include= TRUE}
+innovations(Test)
+```
+
+
+### Impacts
+```{r, include=TRUE, fig.height=8, fig.width=10, fig.align='center'}
+matrix = Test$`Matrix Impact`
+matrix.impact(matrix)
+```
+
+
+
+
+# UNINOVA  {data-icon="fa-id-card"}
+## Row {.tabset .tabset-fade}
+
+### Global Description
+```{r, include=TRUE}
+Test = Data %>%  pluck("UNNINOVA") 
+global.description(Test)
+```
+
+### Expected results
+```{r, results='asis', include=TRUE}
+goals(Test)
+```
+
+### Innovations
+```{r, include= TRUE}
+#UNINOVA  = Test$Innovations %>% melt() %>% filter(L2 == "Description")
+#collapsibleTree( UNINOVA, hierarchy= c("L1", "L2", "value"), height=500, width = 3000, zoomable = TRUE, fontSize = 15)
+
+innovations(Test)
+#rm(UNINOVA)
+```
+
+### Impacts
+```{r, include=TRUE, fig.height=8, fig.width=10, fig.align='center'}
+matrix = Test$`Matrix Impact`
+matrix.impact(matrix)
+```
+
+
+
+# VERA  {data-icon="fa-id-card"}
+## Row {.tabset .tabset-fade}
+
+### Global Description
+```{r, include=TRUE}
+Test = Data %>%  pluck("VERA") 
+global.description(Test)
+```
+
+
+### Expected results
+```{r, results='asis', include=TRUE}
+goals(Test)
+```
+
+### Innovations
+```{r, include= TRUE}
+#VERA  = Test$Innovations %>% melt() %>% filter(L2 == "Description")
+#collapsibleTree( VERA, hierarchy= c("L1", "L2", "value"), height=500, width = 2000, zoomable = TRUE, fontSize = 15)
+innovations(Test)
+#rm(VERA)
+```
+
+### Impacts
+```{r, include=TRUE, fig.height=8, fig.width=10, fig.align='center'}
+matrix = Test$`Matrix Impact`
+matrix.impact(matrix)
+rm(matrix, Test)
+
+```
+
+
+
+
+
