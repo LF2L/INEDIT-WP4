@@ -1,0 +1,44 @@
+
+```{r SunburstR, include=TRUE}
+# Reformat data for the sunburstR package
+Test <-  tibble(DIT)
+
+## Changing the data structure
+Test$Phase <- gsub('-', '/', Test$Phase)
+Test <- Test %>%
+   mutate(path = paste(Phase, Process, Activities, Activities.Def, Tasks, Tasks.Def, sep="-")) %>%
+   dplyr::select(path) %>% mutate(value=c(1))
+
+Test$path <- gsub('-NA', '', Test$path)
+
+#Test[is.na(Test)] <- " "
+#Tree <- d3_nest(DIT, value_cols = "value", root = "INEDIT DIT")
+#sunburst(Tree, height=800, percent = FALSE, count = FALSE, explanation = "function(d){return d.data.name}")
+
+
+# Option 1 Very
+# fig = sunburst(Test, height=800, percent = FALSE, count = FALSE, explanation = "function(d){return d.data.name}")
+
+# Option 2
+# fig = sund2b(Test, rootLabel = "INEDIT DIT" , height=800 , showLabels = FALSE) 
+
+# Option 3
+fig = sund2b(Test, rootLabel = "INEDIT DIT" , showLabels = FALSE, width = 2000,  height = 4000,
+       breadcrumbs = sund2bBreadcrumb( html = htmlwidgets::JS("
+                           function(nodedata, size, percent) {
+                              return '<span style=\"font-weight: bold;\">' + nodedata.name + '</span>' 
+                              }")),
+                              
+       tooltip = sund2bTooltip( html = htmlwidgets::JS("
+            function(nodedata, size, percent) {
+               return '<span style=\"font-weight: bold;\">' + nodedata.name + '</span>' + ' ' 
+               }
+            "))
+)
+
+```
+
+
+```{r, include=TRUE, fig.width=10, out.height=20}
+fig
+```

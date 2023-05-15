@@ -1,0 +1,78 @@
+{
+  "AIMEN": {
+    "Title": ["3D PRINTING OF WOOD"],
+
+    "Role": ["AIMEN is a manufacturer of large wood components and small furniture using robotic 3D printing"],
+
+    "Presentation": ["The 3D Printing of Wood project is a use case of the INEDIT demonstrator. It takes the form of a physical infrastructure and a digital process pipeline. The physical infrastructure will include:  a multinozzle printing head installed in an industrial robotic arm, the auxiliary elements like a working bench and the printing bed with incorporated heating elements, and an auxiliary extrusion line to provide the wood-based filaments for 3D printing with the desired recipe. The digital pipeline is able to transform furniture designed using the INEDIT platform into a manufacturing strategy that allows for the seamless integration of 3D wood printing."],
+
+    "Objective": ["The objective is to be able to print large and arbitrarily complex wooden furniture and to give the final piece different colours, textures and properties by modifying the material recipe."],
+
+    "Innovations": {
+      "Robot-based Fusion Deposition Modelling (FDM)": {
+        "Description": ["This technology allows the use of 3D printing for for small series of large components with minimum required changes to the system in a very short time."],
+
+        "Stakeholders": ["AIMEN", "Fablabs", "3D printing centers", "Robot system suppliers", "Furniture manufacturers", "Furniture repair companies", "Furniture refurbishment companies"]
+        },
+
+        "Wood-based materials 3D printing" : {
+          "Description": ["This technology uses materials that contain wood in 3D printing, which results in printed pieces with a wood-like texture, colour, touch and smell."],
+
+          "Stakeholders": ["AIMEN", "Consumers", "3D printing centers", "Material suppliers", "Material producers", "Furniture manufacturers", "Furniture repair companies", "Furniture refurbishment companies"]
+          },
+
+        "Wood-based materials development for 3D printing" : {
+          "Description": ["Filaments recipe will be adapted for a desired wood content, specific color and adapted material performance. "],
+
+          "Stakeholders": ["AIMEN", "Consumers", "3D printing centers", "Material suppliers", "Material producers", "Furniture manufacturers", "Furniture repair companies", "Furniture refurbishment companies"]
+            }
+        },
+
+    "Expected Results" : ["Development of a modular and replicable Open Manufacturing Demonstration Facility for furniture 3D printing in a DIT approach", "Proposal of a sustainability-driven design and manufacturing process" ],
+
+    "Impact": {
+      "Technical or technological innovations": {
+        "Energy": null,
+        "Materials and life cycle": 1,
+        "Sustainable mobility": null,
+        "Water management": null,
+        "Biodiversity": null,
+        "Waste / Material flow": 1,
+        "Confort / Ambiance": null,
+        "Accommodation / Jobs / Service": 1,
+        "Health / Safety": null,
+        "Bussiness model": 1,
+        "Export": null
+      },
+      "Social and organizational innovations": {
+        "Energy": null,
+        "Materials and life cycle": null,
+        "Sustainable mobility": null,
+        "Water management": null,
+        "Biodiversity": null,
+        "Waste / Material flow": null,
+        "Confort / Ambiance": null,
+        "Accommodation / Jobs / Service": null,
+        "Health / Safety": null,
+        "Bussiness model": null,
+        "Export": null
+      }
+    }
+  },
+
+
+  "UL": {
+    "Title": ["3D PRINTING OF WOOD"],
+    "Abstract": [""],
+    "Impact": {
+      "Technical or technological innovations": {
+        "Energy": null,
+        "Materials and life cycle": null
+      },
+      "Social and organizational innovations": {
+        "Energy": null,
+        "Materials and life cycle": null
+      }
+    }
+  }
+}

@@ -1,0 +1,583 @@
+Criterion;Control;"Achieved objectives 
+Yes: green
+In part: orange
+No: red";Pilot (Responsible);Allocated resources;Justification / comment;"Issue to achieve? 
+If yes, please explain";Expected date of completion;Date of final completion;"Review by WP leader
+Yes: green
+In part: orange
+No: red";Date of review;Comment
+PF 1.4.4 The demonstrator must allow the validation of the models by the users, manufacturers and makers (WP2.2: 4_2_2 Validate with the users, manufacturers and makers);Validation of the models according to its expertise;In part;Benjamin;PC To observe the STL model to be printed;[13/10/2020]: We haven't see the traslation layers from the VR tool towards the clean 3D printed model for printed purpose;[13/10/2020]: Validation of the quality traslation between models created in the co-creation phase and the open manufacturing phase.;Feb-2022 or before (according proposal - see comment);NA;In part;2022-05-02T00:00:00Z;"accordind to the INEDIT proposal, the excepted date of completion should be Feb / March 2022. Indeed, in March 2022 we have to validate the demonstrator and experiment it until July 2022
+
+Waiting for progress on the translation layer"
+PF 1.5.2 The demonstrator must allow to get the prototype of the favoured solution (WP2.2: 5_1_2 Launch the prototype elaboration);Prototyping and design capability, prototyping materials (plastic);Yes;Benjamin / Cristian /  Alexandre;"[12/15/2021]
+- Sketch (On paper and eventually on VR) are useful to define a first versio of product.
+- CAD competences are required to valdate the functional 3D model.";"[12/15/2021]
+- Sketch (On paper and eventually on VR) are useful to define a first versio of product.
+- CAD competences are required to valdate the functional 3D model.";NA;Feb-2022 or before (according proposal - see comment);NA;Yes;2021-12-15T00:00:00Z;Ok
+PF 1.5.2 The demonstrator must allow to get the prototype of the favoured solution (WP2.2: 5_1_2 Launch the prototype elaboration);Use of 3D printer and Shredding machine and cleaning operations;Yes;Cristian / Alexandre;Machine Retsch 300 (Shredding)                 Gigabot X (Printer);[25/01/2022]                                                 The control of the gigabot is done through the parameterisation of its operation, mainly the temperatures, printing speed, cooling, among others. These vary according to the material to be printed. In the shredder we control the rotational speed, in the Reitsch there is the possibility between 700RPM - 3000 RPM. An experience plan is carried out to determine the right rotational speed.;NA;Feb-2022 or before (according proposal - see comment);NA;Yes;2022-05-02T00:00:00Z;ok
+PF 1.5.2 The demonstrator must allow to get the prototype of the favoured solution (WP2.2: 5_1_2 Launch the prototype elaboration);Presence and mastery of Manual Injection machine;Yes;"Benjamin/
+Cristian / Alexandre";"[15/12/2021]
+There is a first prototype Injection machine (Holipresse) that enable the creation of certain injection products.
+ - Competences in vectorial design and laser cut are need it to fabricate the moulds to be useful for the injection.
+- Safety practices are required to handle the injection machine because it is in a temperature of 200°c in average.
+";"[15/12/2021]
+There is a first prototype Injection machine (Holipresse) that enable the creation of certain injection products.
+ - Competences in vectorial design and laser cut are need it to fabricate the moulds to be useful for the injection.
+- Safety practices are required to handle the injection machine because it is in a temperature of 200°c in average.
+";NA;Feb-2022 or before (according proposal - see comment);NA;Yes;2021-12-15T00:00:00Z;Ok
+PF 1.5.2 The demonstrator must allow to get the prototype of the favoured solution (WP2.2: 5_1_2 Launch the prototype elaboration);"Skills in Design for Additive Manufacturing and in Injection
+molding design";Yes;"Benjamin / 
+Fabio";"[15/12/2021]: For this task, it is needed a machine for creation of posible molds for the injection machine. In terms of competencies, the CAO and traslation of towards .DXF is needed.
+- Design for Additive Manufacturing needs the knowledge on the fused granular process to know the parameters (Layer heigth, Extrudion factor, etc)  of printing product";"[15/12/2021]: For this task, it is needed a machine for creation of posible molds for the injection machine. In terms of competencies, the CAO and traslation of towards .DXF is needed.
+- Design for Additive Manufacturing needs the knowledge on the fused granular process to know the parameters (Layer heigth, Extrudion factor, etc)  of printing product";NA;Feb-2022 or before (according proposal - see comment);NA;Yes;2021-12-15T00:00:00Z;Ok
+PF 1.5.3 The demonstrator must allow an evaluation of the prototype functioning (WP2.2: 5_2_1 Assess the resulting prototype);Mastery of objective evaluation (e.g. structural tests as mechanical properties) and subjective evaluation (e.g. user acceptability);Yes;"Benjamin / 
+Fabio";"[15/12/2021]
+- Universalt testing Machine for mechanical Test
+- Systemes / Protocols d'acceptabilité de object";"[15/12/2021]
+For the structural test, traditionally the Tensile - Strain curves are evaluated with standarized samples in order to validate and compare the resistance of the object. 
+Thefore, competences / skills in mechanical engineering are needed for this aspect.
+- Concerning the user acceptability, what is need it is the comparison of product recycled vs virgin and questionnaire or instrument as (eyetracking, neurophisical captors) to capture the elements by the user that can prevent the acceptability of the part";NA;Feb-2022 or before (according proposal - see comment);NA;Yes;2021-12-15T00:00:00Z;ok
+PF 1.5.3 The demonstrator must allow an evaluation of the prototype functioning (WP2.2: 5_2_1 Assess the resulting prototype);Realization of protocol tests;Yes;Benjamin / Cristian /  Alexandre;"[15/12/2021]
+- PC to modelize the object, 
+- 3D Printers and material ready to print
+- Measurement tools to validate Tolerances";"[15/12/2021]
+The tests of printing elements are used to validate most of the time the tolerances for the assembling and to validate that the printing process itself is realiable.
+This means that in function of the material, certaini pre-programmed parameters are adequate for the piece";NA;Feb-2022 or before (according proposal - see comment);NA;Yes;2021-12-15T00:00:00Z;ok
+PF 1.5.3 The demonstrator must allow an evaluation of the prototype functioning (WP2.2: 5_2_1 Assess the resulting prototype);Ability to evaluate the prototype and to propose corrective actions, tools to correct the prototype;Yes;"Benjamin /
+Alexandre";"[15/12/2021]
+- Measurement tools
+- CAD Software to modify the model";"[15/12/2021]
+- Corrective actions for our case consiste in the modifications of the model if the printing part is not according to Design for AM prnciples ( DOI 10.1016/j.cirp.2016.05.004)";NA;Feb-2022 or before (according proposal - see comment);NA;Yes;2021-12-15T00:00:00Z;ok
+PF 1.5.3 The demonstrator must allow an evaluation of the prototype functioning (WP2.2: 5_2_1 Assess the resulting prototype);Reporting malfunction or noncompliance report;In part;Benjamin;"[15/12/2021]
+- Inedit Plateform or ERP to be able to declare this element?
+- Photo or video specifying the inconvienent.";"[15/12/2021]
+The malfunction of 3D printed pieces are mainly because of factor of form (size, tolerance, orientation), or eventually defect on materials properties (resistance, color, surface)";NA;Feb-2022 or before (according proposal - see comment);NA;In part;2022-01-21T00:00:00Z;"Pending validation of the platform
+ok for justification"
+PF 1.5.4 The demonstrator must allow improve the prototype (WP2.2: 5_2_2 Determine corrective actions);Presence and mastery of 3D Printer/Injection moulding;Yes;Benjamin;"[15/12/2021]
+- 3D printers and laser cut technologies as support to create the molds
+- Software vectorial design (Inkscape / InkDesign etc)";"[15/12/2021]
+There is a first prototype Injection machine (Holipresse) that enable the creation of certain injection products.
+ - Competences in vectorial design and laser cut are need it to fabricate the moulds to be useful for the injection.
+- Safety practices are required to handle the injection machine because it is in a temperature of 200°c in average.
+";NA;Feb-2022 or before (according proposal - see comment);NA;yes;2021-12-15T00:00:00Z;ok
+PF 1.5.4 The demonstrator must allow improve the prototype (WP2.2: 5_2_2 Determine corrective actions);Skills in Design for Additive Manufacturing and in Injection moulding design;Yes;"Benjamin / 
+Fabio";"[15/12/2021]: For this task, it is needed a machine for creation of posible molds for the injection machine. In terms of competencies, the CAO and traslation of towards .DXF is needed.
+- Design for Additive Manufacturing needs the knowledge on the fused granular process to know the parameters (Layer heigth, Extrudion factor, etc)  of printing product";"[15/12/2021]
+THe use of software to translate the CAD file to the Gcode, can allow us to understand in a first hand the elements regarding the technical factibility of the printed part";NA;Feb-2022 or before (according proposal - see comment);NA;Yes;2021-12-15T00:00:00Z;Ok
+PF 1.5.4 The demonstrator must allow improve the prototype (WP2.2: 5_2_2 Determine corrective actions);Communication of improvements to be made on the product;In part;"Benjamin / 
+Fabio";"[15/12/2021]
+- Inedit Plateform or ERP to be able to declare possible adjusments to do based on the protocol tests?
+- Photo / or model sketch specifying the possible options.";"[15/12/2021]
+From our side, changes in the CAD Model, changes in material can be proposed to improve the product";NA;Feb-2022 or before (according proposal - see comment);NA;In part;2022-01-21T00:00:00Z;"Pending validation of the platform
+ok for justification"
+PF 1.6.9 The demonstrator must allow the transfer of the customized production order to the suitable manufacturer (WP2.2: 6_4_2 Transmit the production order);Reception of a specific production order;No;Cristian / Benjamin;"[15/12/2021]
+Specific plateform is still in development as far as we know";NA;[12/10/2021] This is not develped yet because there is not plateform to transfer the manufacturer;Feb-2022 or before (according proposal - see comment);NA;In part;2022-01-21T00:00:00Z;Pending validation of the platform
+PF 3.1.2 The demonstrator must allow to validate that the manufacturing order is adapted to the activities carried out by the company (WP2.2: 7_2 Check the conformity of the order);Ability to assess the industrial feasibility of the product;Yes;"Benjamin
+Fabio";"-Logiciel to see the STL [Superslicer/Repetier-Host]
+- Competence to of the printability on software";[25/01/2022] Gigabot X: 8 hours of monitored printing per day, only PLA and PET for the moment in pellets format.;NA;Feb-2022 or before (according proposal - see comment);NA;Yes;2022-03-01T00:00:00Z;Ok
+PF 3.1.2 The demonstrator must allow to validate that the manufacturing order is adapted to the activities carried out by the company (WP2.2: 7_2 Check the conformity of the order);Ability to validate whether the order is conformed;Yes;"Benjamin
+Fabio";"- Software 3D Printing. 
+-Definition of the materials to use";"[15/12/2021]Checking the characteristics of the file includes the following elements:
+- Respect of the maximal sizes tha the printing machine can have (58X76X47 cm)
+- Validation of a plane surface that the piece can be attached to the printed bed
+- Validation of no internal holes where there is no posibilite to take off support material
+- Validation of the type of material";NA;Feb-2022 or before (according proposal - see comment);NA;Yes;2021-12-07T00:00:00Z;Ok
+PF 3.1.2 The demonstrator must allow to validate that the manufacturing order is adapted to the activities carried out by the company (WP2.2: 7_2 Check the conformity of the order);Validation of the order;No;"Benjamin
+Fabio";"[15/12/2021] We (think) need:
+- The order
+- Identification of were is it?";-[20/10/2021]: The validation needs to be made with ERP or Plateform INEDIT?;NA;Feb-2022 or before (according proposal - see comment);NA;No;2022-05-02T00:00:00Z;"This requires that the platform is operational, we want to validate that the validation by partners is possible on the platform, it is to validate that the information flow ""validated order"" works"
+PF3.2.1 The demonstrator must organise production considering product flows, deadlines and supplies (WP2.2: 8_1 Plan the production);Use of production planning tools;In part;"Benjamin
+Cristian
+Fabio";"There is no a specific tool yet to this element implemeneted inside the demostrator
+
+Do the INEDIT plateform consider this?";"- [03/01/2022]: This task for UL needs to consider the following elements:
+ - Numerical model STL that are according to the Printer limitations of the printed parts
+- Quantity of the printed parts with its correspondance time of printing estimation (given by 3D printed software) 
+- Analysis of the raw material available in the demostrator
+- Estime the time to assembly and inspections validations
+
+FabManager software that is in implementations inside LF2L can give some partial answers to the planning production eventualy.";NA;Feb-2022 or before (according proposal - see comment);NA;Yes;2021-01-04T00:00:00Z;"Ok, no tool but an explicited process to organize production
+
+Do the INEDIT plateform consider this?"
+PF3.2.1 The demonstrator must organise production considering product flows, deadlines and supplies (WP2.2: 8_1 Plan the production);Ability to plan production;In part;Benjamin;"[03/01/2022]
+There is no a specific tool yet to this element implemeneted inside the demostrator
+
+Do the INEDIT plateform consider this?";"[03/01/2022]
+A dedicated plateform is not implemented yet However, we think that what is needed  for this task:
+- The inputs cencerning the Printed parts need fo the week or month
+- THe skills (use Gcode software) to estimate the complexity and the printing viability for a particular part.
+- Visualization of the advancement of the projects to identify printing priorities in the plateform
+";NA;Feb-2022 or before (according proposal - see comment);NA;Yes;2021-01-04T00:00:00Z;"Explicited process
+
+Do the INEDIT plateform consider this?"
+PF3.2.1 The demonstrator must organise production considering product flows, deadlines and supplies (WP2.2: 8_1 Plan the production);Production plan;In part;"Benjamin
+Fabio";"[03/01/2022]
+There is no a specific tool yet to this element implemeneted inside the demostrator
+
+Do the INEDIT plateform consider this?";"[03/01/2022]
+A dedicated plateform is not implemented yet However, we think that what is needed  for this task:
+- The inputs cencerning the Printed parts need fo the week or month
+- Visualization of the advancement of the projects to identify printing priorities in the plateform";NA;Feb-2022 or before (according proposal - see comment);NA;Yes;2021-01-04T00:00:00Z;"Ok
+
+
+Do the INEDIT plateform consider this?"
+PF3.2.3 The demonstrator must define the production process (WP2.2: 8_3 Define the modality of the product industrialization);Use of production planning tools;In part;Benjamin;"[03/01/2022]
+There is no a specific tool yet to this element implemeneted inside the demostrator
+
+Do the INEDIT plateform consider this?";"[03/01/2022]
+The tools used so far are :
+- Mail to exchange files and folders with the stakeholder
+-  A repertory of printed files is maintained by Benjamin";NA;Feb-2022 or before (according proposal - see comment);NA;Yes;2021-01-04T00:00:00Z;"Explicited process
+
+Do the INEDIT plateform consider this?"
+PF3.2.3 The demonstrator must define the production process (WP2.2: 8_3 Define the modality of the product industrialization);Production management capacity;In part;Benjamin;"[03/01/2022]
+There is no a specific tool yet to this element implemeneted inside the demostrator
+
+Do the INEDIT plateform consider this?";"[03/01/2022]
+- THe nature of the printing process made difficult to estimate the batches.
+- Time of printing process max is 8h so far. THe process is not reliable to run without supervision .";NA;Feb-2022 or before (according proposal - see comment);NA;Yes;2021-01-04T00:00:00Z;Product-depending process, so estimation is difficult
+PF3.2.3 The demonstrator must define the production process (WP2.2: 8_3 Define the modality of the product industrialization);Presence of production plan;In part;Benjamin;"[03/01/2022]
+There is no a specific tool yet to this element implemeneted inside the demostrator
+
+Do the INEDIT plateform consider this?";"[03/01/2022]
+Today is not present this present. This is done by Benjamin with the technical insigths that he has.
+However, to done this correctly, it is expected that:
+- Each machine has a 'calendar' of utilization. 
+- This calendar will enable the disponibility and the affectation of production acording to the requirements.
+- Technical skills are needed to pilot and assure the correct funciton of the machines (GIgabot, Extruder, Shredding, Sheet plate, etc)";NA;Feb-2022 or before (according proposal - see comment);NA;Yes;2021-01-04T00:00:00Z;Explicited process for a company if necessary
+PF3.2.3 The demonstrator must define the production process (WP2.2: 8_3 Define the modality of the product industrialization);Identification of the availability of production machines;Yes;Benjamin/Alex;[] USe of management tools as FabManager;"[03/01/2022] 
+Un inventory of the machines is needed considering the operations that can be made.
+software as FabManage is being implemented at LF2L";NA;Feb-2022 or before (according proposal - see comment);NA;Yes;2022-05-02T00:00:00Z;Ok
+PF3.2.3 The demonstrator must define the production process (WP2.2: 8_3 Define the modality of the product industrialization);Identification of necessary resources (human and material);In part;Cristian / Benjamin;"[04/01/2022]
+Idenify the elemnts from the experimentations concerning the:
+- validation of machines
+- skills required to make the total recycling on GF";"[03/01/2022]
+Some insights were made at the level of LF2L. 
+However, to the Green Fablab some insigths:
+- The conceptual model of Cristian can give insigths about the project";NA;Feb-2022 or before (according proposal - see comment);NA;In part;2022-05-02T00:00:00Z;Ok, waiting for proofs
+PF3.2.5 The demonstrator must allow to fit the product specification with industrialization process requirements (WP2.2: 8_5 Provide a technical assistance);List of corrective actions or suggestions for improvement;Yes;"Benjamin
+Fabio";"[03/01/2021]
+Metrology tools
+- Temperature sensors";"[03/01/2022]
+Some visual inspections to detect printing errors are required to validate if the printing process is correctly done. When printing part is finished, measurements and deviations from CAD models are first indicators to evidence corrective actions or sugestions.";NA;Feb-2022 or before (according proposal - see comment);NA;Yes;2021-01-04T00:00:00Z;Ok
+PF3.2.5 The demonstrator must allow to fit the product specification with industrialization process requirements (WP2.2: 8_5 Provide a technical assistance);Transmission of nonconformity;In part;Fabio;"PC, software, internet,
+- Camera photographie to present the issues";"[03/01/2021]
+Based on the visual inspections and the measurements of the printed part, the transimisions of non-conformity can be done 
+(Via INEDIT plateform if this block is develop?)";NA;Feb-2022 or before (according proposal - see comment);NA;In part;2022-05-02T00:00:00Z;Ok, waiting for the INEDIT platform
+PF3.3.1 The demonstrator must allow to estimate the quantity of products, components, raw materials or packaging to purchase (WP2.2: 9_1 Define supply needs);Tools to assess the quantity of materials required;Yes;Benjamin;Software Super-slicer (https://github.com/supermerill/SuperSlicer);"[03/01/2021]
+SuperSlicer is OS software to establish initial estimations of material quantity for printed";NA;Feb-2022 or before (according proposal - see comment);NA;Yes;2021-01-04T00:00:00Z;Ok
+PF3.3.1 The demonstrator must allow to estimate the quantity of products, components, raw materials or packaging to purchase (WP2.2: 9_1 Define supply needs);Knowledge of inventory management;No;NA;Skills : Planning, production time control, prioritisation of requirements, quality control;[25/01/2022] : At the moment we have no production orders, and the production can be one-off as opposed to batch production.;NA;Feb-2022 or before (according proposal - see comment);NA;No;2022-05-02T00:00:00Z;What skills do you use to estimate the material needed
+PF3.3.2 The demonstrator must allow to find suppliers able to provide components, raw materials or packaging according to the specifications (WP2.2: 9_2 Identify suppliers);Ability to select suppliers (materials, location, price, environmental impact, availability);In part;"Benjamin /
+Fedoua";"[03/01/2022]
+Catalog of the suppliers
+
+";"[03/01/2021]
+Public procurements procedure are the standard to select suppliers given the fact that UL is a university.
+To select the suppliers, some skills are needed:
+- Understand the technical/mecanical composant and to know the technical name to be able to find the correct market.
+- Be able to identify key performance of the tehnical components (Power, Torque, Current,)
+- Be able to make identify pertinent supplier and to  make correspondance of the need in function of the availability of suppliers' offer.
+
+[04/01/2022]
+- A voir avec Fedoua pour la partie de selection des collection de bouchons?";NA;Feb-2022 or before (according proposal - see comment);NA;In part;2022-05-02T00:00:00Z;Ok, information about plastic suppliers to validate
+PF3.3.5 The demonstrator must allow receipt of proposals from suppliers (WP2.2: 9_5 Analyse the answer to the call for tenders);Knowledge of supplier expertise;Yes;Benjamin;NA;"[03/01/2022]
+Validation of the following elements
+- Prioritation of french supplier (to avoid aduana issues)
+- Availability of the component
+- Supplier accepted by the Public procurement procedure
+
+";NA;Feb-2022 or before (according proposal - see comment);NA;Yes;2021-01-04T00:00:00Z;Ok
+PF3.3.5 The demonstrator must allow receipt of proposals from suppliers (WP2.2: 9_5 Analyse the answer to the call for tenders);Tender analysis skills;Yes;Benjamin;Catalog of supplier;"[03/01/2022]
+Delay of livraison as one major criteria";NA;Feb-2022 or before (according proposal - see comment);NA;Yes;2021-01-04T00:00:00Z;Ok
+PF3.3.8 The demonstrator must validate the order launch according to the established specification and the contract (WP2.2: 9_8 Trigger the order);Receive the order;No;NA;"[03/01/2022]
+- INEDIT plateform?";"[03/01/2022]
+- Waiting to use INEDIT plateform";NA;Feb-2022 or before (according proposal - see comment);NA;No;2022-05-02T00:00:00Z;waiting for the development of the platform
+PF3.3.8 The demonstrator must validate the order launch according to the established specification and the contract (WP2.2: 9_8 Trigger the order);Validate the order on the platform;No;NA;"[03/01/2022]
+- INEDIT plateform?";"[03/01/2022]
+- Waiting to use INEDIT plateform";NA;Feb-2022 or before (according proposal - see comment);NA;No;2022-05-02T00:00:00Z;waiting for the development of the platform
+PF3.3.9 The demonstrator must allow the traceability of the order (WP2.2: 9_9 Track and monitor the order);Communication of the order information progress;No;NA;"[03/01/2022]
+- INEDIT plateform?";"[03/01/2022]
+- Waiting to use INEDIT plateform";NA;NA;NA;No;2022-05-02T00:00:00Z;waiting for the development of the platform
+PF3.4.1 The demonstrator must validate that the specification fits with the manufacturing process (WP2.2: 10_1 Check the feasibility of the specification);Presence of CAD software;Yes;NA;NA;"[03/01/2022]
+Onshape is main CAD software at the demostrator";NA;NA;NA;Yes;2021-01-04T00:00:00Z;Ok
+PF3.4.1 The demonstrator must validate that the specification fits with the manufacturing process (WP2.2: 10_1 Check the feasibility of the specification);Skills in CAD knowledge;Yes;Benjamin;PC, software, internet;"[03/01/2022]
+Onshape is main CAD software at the demostrator:
+- Creation of 3D models using.
+- Creation of technical drawing to specify the dimensions and eventually the manufacutring presence.";NA;NA;NA;Yes;2021-01-04T00:00:00Z;Ok
+PF3.4.1 The demonstrator must validate that the specification fits with the manufacturing process (WP2.2: 10_1 Check the feasibility of the specification);Knowledge in Software machine parameters;Yes;Benjamin;NA;[25/01/2022]: All print parameters are controlled in the software. The main ones to be taken into account are cooling level, material deposition speed, layer height, print filling.;NA;NA;NA;Yes;2022-01-31T00:00:00Z;Ok
+PF3.4.1 The demonstrator must validate that the specification fits with the manufacturing process (WP2.2: 10_1 Check the feasibility of the specification);Validation of the feasibility on its machines;In part;Crsitian;PC, software, internet, experience plan;[25/01/2022] Gigabot X: Test prints are made to check the capacity of the machine and the setting of the parameters.;NA;NA;NA;Yes;2022-02-01T00:00:00Z;Ok
+PF3.4.1 The demonstrator must validate that the specification fits with the manufacturing process (WP2.2: 10_1 Check the feasibility of the specification);Feasibility transmission on the platform;No;Crsitian;NA;"[03/01/2022]
+- up to date, No conection with INEDIT plateform";NA;NA;NA;No;2022-05-02T00:00:00Z;waiting for the development of the platform
+PF3.4.2 The demonstrator must allow to fit the product specification with industrialization process requirements (WP2.2: 10_2 Provide a technical assistance);CAD software;Yes;Cristian;NA;"[04/01/2022]
+Not software associated to Industrialization
+- Software of diagnosis CAD to validate the STL model.
+- Benjamin looks for consistency of STL model, using Superslicer and Repetier-Host
+";NA;NA;NA;In part;2022-05-02T00:00:00Z;To complete
+PF3.4.2 The demonstrator must allow to fit the product specification with industrialization process requirements (WP2.2: 10_2 Provide a technical assistance);Modelling, production and design skills;Yes;Benjamin / Fabio/Cristian;PC, software, internet;Experts in CAO,CAD, 3D Printing, injection moulding, waste Plastic. We have the possibily to help in any of this domaines.;"[03/01/2022]
+- Not clear on this one";NA;NA;No;2022-05-02T00:00:00Z;provide details, can you precise the skills as well as possible ?
+PF3.4.2 The demonstrator must allow to fit the product specification with industrialization process requirements (WP2.2: 10_2 Provide a technical assistance);Report of improvement suggestions;NA;Crsitian;NA;"[03/01/2022]
+- up to date, No conection with INEDIT plateform";NA;NA;NA;No;2022-05-02T00:00:00Z;waiting for the development of the platform
+PF3.4.3 The demonstrator must allow to choose the suitable manufacturing and assembly operations from the instructions (drawings, bill of material...) (WP2.2: 10_3 Identify the manufacturing operations);Production management skills;In part;Crsitian;NA;NA;"[03/01/2022]
+- Do GF make apointments on the assembly production?";NA;NA;No;2022-05-02T00:00:00Z;even if you are a research center, can you precise the skills as well as possible to produce small lots ?
+PF3.4.3 The demonstrator must allow to choose the suitable manufacturing and assembly operations from the instructions (drawings, bill of material...) (WP2.2: 10_3 Identify the manufacturing operations);Manufacturing instructions;No;Crsitian;NA;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;What guidelines do you follow to produce the application from the platform
+PF3.4.3 The demonstrator must allow to choose the suitable manufacturing and assembly operations from the instructions (drawings, bill of material...) (WP2.2: 10_3 Identify the manufacturing operations);Presence of design files, bills of materials, product specification and manufacturing plan;NA;Crsitian;NA;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;waiting for the development of the platform.  But one part is provided by the platform and the other by you. What is done by your structure must be formalized in order to feed the platform
+PF3.4.4 The demonstrator must define the suitable amount of quantity or raw materials (WP2.2: 10_4 Select materials and components for manufacturing);Use of Shredding machine and cleaning operations;In part;Cristian/ Alexandre;Shredder: RETSCH 300;[26/01/2022] We start a regrind process and evaluate the regrind quality against the levels required for 3D printing and/or Injection moulding.;At the moment we are developing the washing stage.;NA;NA;In part;2022-05-02T00:00:00Z;provide details , can you precise the software used please ?
+PF3.4.4 The demonstrator must define the suitable amount of quantity or raw materials (WP2.2: 10_4 Select materials and components for manufacturing);CAD and Software machine parameters knowledge;Yes;Benjamin;CAD software: Onshape      Machine Controller: Repetier-Host;[26/01/2022] Experiential tests were carried out to establish the parameters. Speed, temperature, dimensions and material type.;NA;NA;NA;In part;2022-05-02T00:00:00Z;Which parameters ?
+PF3.4.4 The demonstrator must define the suitable amount of quantity or raw materials (WP2.2: 10_4 Select materials and components for manufacturing);Skills in manufacturing tuning;NA;Crsitian;NA;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;provide details, can you precise the skills as well as possible ?
+PF3.4.4 The demonstrator must define the suitable amount of quantity or raw materials (WP2.2: 10_4 Select materials and components for manufacturing);Sampling tools;Yes;Cristian/ Alexandre;Shredder, Cleaning machine, Extruder.;[26/01/2022] Material should be collected, sorted by material, condition and colour. Cleaning phase if necessary. Crushing, extrusion and pelletising before printing.;At the moment we are developing the washing stage.;NA;NA;Yes;2022-01-31T00:00:00Z;Ok
+PF3.4.4 The demonstrator must define the suitable amount of quantity or raw materials (WP2.2: 10_4 Select materials and components for manufacturing);Manufacturing plan and bill of materials;No;Crsitian;NA;[26/01/2022] Up to now, we haven't manufacturing plan. We look forward to the operation of the platform.;NA;NA;NA;No;2022-05-02T00:00:00Z;provide details, an example ou more information about manufacturing plan anf bill of materials
+PF 3.4.5 The demonstrator must prepare the quantity of materials required for the manufacturing (WP2.2: 10_5 Build up the stock of raw materials and components);Materials and components for manufacturing;Yes;Fabio / Benjamin;NA;[26/01/2022] 3D printing: PLA ,PET and PP                                         Injection moulding: PHDE, PLA, PP, other plastics.;NA;NA;NA;Yes;2022-01-31T00:00:00Z;Ok
+PF 3.4.5 The demonstrator must prepare the quantity of materials required for the manufacturing (WP2.2: 10_5 Build up the stock of raw materials and components);Handling and sampling equipment;Yes;NA;industrial Tweezers, Cutting plier;There are terminations that need to be done manually and mainly cutting tools are used.;NA;NA;NA;In part;2022-05-02T00:00:00Z;provide details , can you precise the equipment used please ?
+PF3.4.6 The demonstrator must lead to the desired product (WP2.2: 10_6 Manufacture the product/component);Use and mastery of 3D printer, Manual Injection machine, Laser-cut and Software Modelling;Yes;Cristian / Benjamin;NA;[26/01/2022] 3D Printer: Gigabot X XL/ Injection moulding: Holipress and sheet press (Precius plastic version) Software modelling: Onshape/ STL visualisation: Superlicer/Gigabot Controller: Repetier-Host.;Realisation of experience plan;NA;NA;Yes;2022-01-31T00:00:00Z;ok
+PF3.4.6 The demonstrator must lead to the desired product (WP2.2: 10_6 Manufacture the product/component);Skills in 3D and 2D Modelling and parameters tuning;Yes;Cristian / Benjamin;NA;Development de desing, knowladge of different modelling software, Knowladge of 3D printer and plastic behavior.;NA;NA;NA;In part;2022-05-02T00:00:00Z;provide details, can you precise the skills as well as possible ?
+PF3.4.6 The demonstrator must lead to the desired product (WP2.2: 10_6 Manufacture the product/component);Materials and components;Yes;Cristian / Benjamin;NA;[26/01/2022] 3D printing: PLA ,PET and PP                                         Injection moulding: PHDE, PLA, PP, other plastics.;NA;NA;NA;Yes;2022-01-31T00:00:00Z;Ok
+PF3.4.6 The demonstrator must lead to the desired product (WP2.2: 10_6 Manufacture the product/component);Manufactured product;Yes;Cristian / Benjamin;NA;[26/01/2022] All types of products that can be modelled.;NA;NA;NA;Yes;2022-01-31T00:00:00Z;Ok
+PF3.4.7 The demonstrator must refine the product obtained (WP2.2: 10_7 Carry out the finishes of a work);Manufactured product;Yes;Alexandre;NA;[26/01/2022] All types of products that can be modelled.;NA;NA;NA;Yes;2022-01-31T00:00:00Z;Ok
+PF3.4.7 The demonstrator must refine the product obtained (WP2.2: 10_7 Carry out the finishes of a work);Use of cutter, sandpapers, small knife, rotatory tools;Yes;Alexandre;NA;[26/01/2022] 3D printing almost always leaves plastic residues that need to be removed. This is done manually using tweezers, small cutting pliers and sandpaper.;NA;NA;NA;Yes;2022-01-30T00:00:00Z;Ok
+PF3.4.7 The demonstrator must refine the product obtained (WP2.2: 10_7 Carry out the finishes of a work);Manufacturing skills (manual skills) for finishing;Yes;Alexandre;NA;[26/01/2022] 3D printing almost always leaves plastic residues that need to be removed. This is done manually using tweezers, small cutting pliers and sandpaper.;NA;NA;NA;Yes;2022-01-31T00:00:00Z;Ok
+PF3.4.8 The demonstrator must validate that the product perfectly fit with the specification (WP2.2: 10_8 Check the stability and the dimension of the product);Use of metrology tools;Yes;Alexandre;NA;NA;NA;NA;NA;In part;2022-05-02T00:00:00Z;provide details, can you precise how you use these tools for validating this control  ?
+PF3.4.8 The demonstrator must validate that the product perfectly fit with the specification (WP2.2: 10_8 Check the stability and the dimension of the product);"Skills in metrology and analysis
+data";Yes;Alexandre;NA;NA;NA;NA;NA;In part;2022-05-02T00:00:00Z;provide details, can you precise the skills as well as possible ? (like a job description)
+PF3.4.8 The demonstrator must validate that the product perfectly fit with the specification (WP2.2: 10_8 Check the stability and the dimension of the product);Presence of manufacturing plan;Yes;"Benjamin
+Fabio";NA;NA;NA;NA;NA;In part;2022-05-02T00:00:00Z;add details
+PF3.4.8 The demonstrator must validate that the product perfectly fit with the specification (WP2.2: 10_8 Check the stability and the dimension of the product);Presence of the manufactured product;Yes;Alexandre;NA;NA;NA;NA;NA;In part;2022-05-02T00:00:00Z;At a moment of the project, we have to validate if the obtained product fits with the order. so we need the previous step to be validated to validate this step
+PF3.4.8 The demonstrator must validate that the product perfectly fit with the specification (WP2.2: 10_8 Check the stability and the dimension of the product);Presence of space for checking the product;Yes;Alexandre;NA;NA;NA;NA;NA;In part;2022-05-02T00:00:00Z;When a product is finished, where can you check that it fits with the order or the demand ? What should this space include to facilitate validation?
+PF3.4.8 The demonstrator must validate that the product perfectly fit with the specification (WP2.2: 10_8 Check the stability and the dimension of the product);Presence of manufacturing skills;Yes;Cristian / Benjamin;NA;NA;NA;NA;NA;In part;2022-05-02T00:00:00Z;provide details, can you precise the skills as well as possible ?
+PF3.9.1 The demonstrator must extract raw material according to the order preparation instructions (quantity, type…) (WP2.2: 15_1 Pick materials);A smart plastic waste collector;Yes;Alex;NA;[26/01/2022] We start installing the smart collector in the neighbourhood.;Meeting with actors, interviews about their recycling practices.;NA;NA;In part;2022-05-02T00:00:00Z;add details
+PF3.9.1 The demonstrator must extract raw material according to the order preparation instructions (quantity, type…) (WP2.2: 15_1 Pick materials);Skills in initial quality evaluation;Yes;Fabio / Benjamin;NA;NA;NA;NA;NA;In part;2022-05-02T00:00:00Z;add details
+PF3.9.1 The demonstrator must extract raw material according to the order preparation instructions (quantity, type…) (WP2.2: 15_1 Pick materials);Raw material order;In part;Benjamin;NA;NA;NA;NA;NA;In part;2022-05-02T00:00:00Z;add details
+PF3.9.2 The demonstrator must characterize the movement of the package from one location to another in a same place. (WP2.2: 15_2 Ship the package);Handling equipment and skills;In part;Cristian / Alexandre;NA;NA;NA;NA;NA;In part;2022-05-02T00:00:00Z;add details
+PF3.9.2 The demonstrator must characterize the movement of the package from one location to another in a same place. (WP2.2: 15_2 Ship the package);Traceability report;In part;Cristian / Alexandre;NA;NA;NA;NA;NA;In part;2022-05-02T00:00:00Z;add details
+PF3.9.3 The demonstrator must allow the transfer of a product/component from one place to another (WP2.2: 15_3 Transport goods to the shipping areas);Handling equipment;Yes;Cristian / Alexandre;industrial Tweezers, Cutting plier;NA;NA;NA;NA;In part;2022-05-02T00:00:00Z;add details
+PF3.9.3 The demonstrator must allow the transfer of a product/component from one place to another (WP2.2: 15_3 Transport goods to the shipping areas);Raw material order;In part;Cristian / Alexandre;NA;NA;NA;NA;NA;In part;2022-05-02T00:00:00Z;add details
+PF3.9.3 The demonstrator must allow the transfer of a product/component from one place to another (WP2.2: 15_3 Transport goods to the shipping areas);Traceability report;In part;Cristian / Alexandre;NA;[26/01/2022] we can update the production status, but the global shipment status must be managed by the platform or not?;NA;NA;NA;In part;2022-05-02T00:00:00Z;Ok from UL, to validate with the platform
+PF3.10.1 The demonstrator must describe the different assembly steps from the production instruction (WP2.2: 16_1 Identify assembly operations);Production and assembly instruction;Yes;Cristian / Alexandre;NA;NA;NA;NA;NA;In part;2022-05-02T00:00:00Z;add details
+PF3.10.1 The demonstrator must describe the different assembly steps from the production instruction (WP2.2: 16_1 Identify assembly operations);Assembly skills;Yes;Cristian / Alexandre;NA;NA;NA;NA;NA;In part;2022-05-02T00:00:00Z;add details
+PF3.10.2 The demonstrator must allow each part of the assembly to be positioned prior to attachment (WP2.2: 16_2 Position the part preliminary);Informing about the progress of the manufacture of the component and its distribution;Yes;Fabio / Benjamin;NA;NA;NA;NA;NA;In part;2022-05-02T00:00:00Z;"This requires that the platform is operational, we want to validate that the validation by partners is possible on the platform, it is to validate that the information flow ""progress of the manufacture"" works"
+PF4.1.1 The facilities of the demonstrator must receive the specifications of the product/component to be manufactured;"Validation of the specification
+reception";No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;"This requires that the platform is operational, we want to validate that the validation by partners is possible on the platform, it is to validate that the information flow ""specification reception"" works"
+PF4.1.2 The facilities of the demonstrator must receive information about the order (quantity, delay...);Validation of the reception of information about the order (quality, delay…);No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;"This requires that the platform is operational, we want to validate that the validation by partners is possible on the platform, it is to validate that the information flow ""reception of information about the order"" works"
+PF4.1.3 The facilities of the demonstrator must receive information about product/component deliveries;"Validation of the reception of
+information about the
+product/component deliveries";No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;"This requires that the platform is operational, we want to validate that the validation by partners is possible on the platform, it is to validate that the information flow ""reception of information about the deliveries"" works"
+PF4.2.1 The facilities of the demonstrator must carry out the tasks allocated by the platform according to their specialities (skills, technologies, processes, etc.).;"Identification of the tasks that
+the facility can perform in
+terms of skills, technologies,
+processes, location, capacity";No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;You must provide this information to the platform so that it can identify you as potential producers
+PF4.2.1 The facilities of the demonstrator must carry out the tasks allocated by the platform according to their specialities (skills, technologies, processes, etc.).;Ability to perform the task;No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;You need to provide information about your ability to perform certain tasks to the platform so that it can identify you as potential producers... therefore, you need to formalize which tasks you are able to perform with your technologies
+PF4.2.1 The facilities of the demonstrator must carry out the tasks allocated by the platform according to their specialities (skills, technologies, processes, etc.).;"Availability to carry out the
+task";No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;You must provide information about your availability to perform certain tasks to the platform so that it can identify you as potential producers...
+PF4.2.1 The facilities of the demonstrator must carry out the tasks allocated by the platform according to their specialities (skills, technologies, processes, etc.).;Transmission of this data;No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;"This requires that the platform is operational, we want to validate that the validation by partners is possible on the platform, it is to validate that the information flow ""transmission of production data"" works"
+PF4.2.2 The facilities of the demonstrator must carry out the tasks allocated by the platform according to their location.;Identification of the tasks that the facility can perform in terms of skills, technologies, processes, location, capacity;No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;You must provide information about your location to the platform so that it can identify you as potential producers
+PF4.2.2 The facilities of the demonstrator must carry out the tasks allocated by the platform according to their location.;Ability to perform the task;No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;It can be the same justification of the same control from the PF4.2
+PF4.2.2 The facilities of the demonstrator must carry out the tasks allocated by the platform according to their location.;Availability to carry out the task;No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;It can be the same justification of the same control from the PF4.2
+PF4.2.2 The facilities of the demonstrator must carry out the tasks allocated by the platform according to their location.;Transmission of this data;No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;"This requires that the platform is operational, we want to validate that the validation by partners is possible on the platform, it is to validate that the information flow ""transmission of production data"" works"
+PF4.2.3 The facilities of the demonstrator must carry out the tasks allocated by the platform according to their production capacity;Identification of the tasks that the facility can perform in terms of skills, technologies, processes, location, capacity;No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;You must provide information about its capacity to the platform so that it can identify you as potential producers
+PF4.2.3 The facilities of the demonstrator must carry out the tasks allocated by the platform according to their production capacity;Ability to perform the task;No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;It can be the same justification of the same control from the PF4.2
+PF4.2.3 The facilities of the demonstrator must carry out the tasks allocated by the platform according to their production capacity;Availability to carry out the task;No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;It can be the same justification of the same control from the PF4.2
+PF4.2.3 The facilities of the demonstrator must carry out the tasks allocated by the platform according to their production capacity;Transmission of this data;No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;"This requires that the platform is operational, we want to validate that the validation by partners is possible on the platform, it is to validate that the information flow ""transmission of production data"" works"
+PF4.3.1 The facilities of the demonstrator must communicate about their needs in materials or components;Reception of the information;No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;"This requires that the platform is operational, we want to validate that the validation by partners is possible on the platform, it is to validate that the information flow ""reception of the information"" works"
+PF4.3.2 The facilities of the demonstrator must communicate about their production progress;"Communication about their
+production progress";No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;"This requires that the platform is operational, we want to validate that the validation by partners is possible on the platform, it is to validate that the information flow ""production progress"" works"
+PF4.3.2 The facilities of the demonstrator must communicate about their production progress;"Transmission of the
+information to the platform";No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;"This requires that the platform is operational, we want to validate that the validation by partners is possible on the platform, it is to validate that the information flow ""transmission of the information"" works"
+PF4.3.3 The facilities of the demonstrator must share their sustainable practices;Identification of the sustainable practices;No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;You need to formalize your sustainable practices. For remind, the demonstrator has to part of circular economy
+PF4.3.3 The facilities of the demonstrator must share their sustainable practices;Transmission of these practices to the platform;No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;You need to transmit your sustainable practices to the platform to fufill the database
+PF4.4.1 The facilities of the demonstrator must communicate any change in the product specification;"Communication about changes
+on the specification";No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;"This requires that the platform is operational, we want to validate that the validation by partners is possible on the platform, it is to validate that the information flow ""communication about changes"" works"
+PF4.4.2 The facilities of the demonstrator must communicate about their production progress;Communication about their production progress;No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;"This requires that the platform is operational, we want to validate that the validation by partners is possible on the platform, it is to validate that the information flow ""production process"" works"
+PF4.4.3 The facilities of the demonstrator must communicate about deliveries and delays;Communication about deliveries and delays;No;Cristian;NA;"-[20/10/2021]: I think we need to received from Innovation Hub (ERP) the specifications of the printed part. 
+However, to the date, we don't know the specifications or model for this";NA;NA;NA;No;2022-05-02T00:00:00Z;"This requires that the platform is operational, we want to validate that the validation by partners is possible on the platform, it is to validate that the information flow ""communication about deliveries and delays"" works"
+PF5.1.1The demonstrator must identify the possibilities of customization according to the chosen raw materials.;Identification of the possibilities of personalization for the materials used by the installations;In part;Fabio / Cristian;NA;[28-03-2022] The technologies we are developing will allow us to make 3D prints, small injection molded parts, plastic sheets and profiles. Demonstrated in different projects carried out at UL;NA;NA;NA;In part;2022-05-02T00:00:00Z;There should be evidence and an illustrated summary of what could be done
+PF5.1.1The demonstrator must identify the possibilities of customization according to the chosen raw materials.;Transmission of the possibilities of personalization;Yes;Fabio / Benjamin;NA;[28-03-2022] The technologies we are developing will allow us to make 3D prints, small injection molded parts, plastic sheets and profiles. Demonstrated in different projects carried out at UL;NA;NA;NA;In part;2022-05-02T00:00:00Z;The possibilities of personalization need to be formalized to be sent to the platform
+PF5.1.2 The demonstrator must identify the possibilities of customization according to the preferred technologies.;Identification of the possibilities of personalization for the technologies used by the installations;Yes;Fabio / Cristian;NA;[28-03-2022] The technologies we are developing will allow us to make 3D prints, small injection molded parts, plastic sheets and profiles. Demonstrated in different projects carried out at UL;NA;NA;NA;In part;2022-05-02T00:00:00Z;There should be evidence and an illustrated summary of what could be done
+PF5.1.2 The demonstrator must identify the possibilities of customization according to the preferred technologies.;Transmission of the possibilities of customization of the installations’ technologies;Yes;Fabio / Cristian;NA;[28-03-2022] The technologies we are developing will allow us to make 3D prints, small injection molded parts, plastic sheets and profiles. Demonstrated in different projects carried out at UL;NA;NA;NA;In part;2022-05-02T00:00:00Z;The possibilities of personalization need to be formalized to be sent to the platform
+PF5.3.1The demonstrator must provide information on the recyclability and repairability of the product's parts.;Definition of the procedures to be followed to recycle the product;Yes;Fabio;NA;"[28-03-2022] Recycling of the part produced by UL? 
+The plastic is recycled according to the regulations of each country. It can be established that each of our printed or injected pieces has its logo with respect to the plastic used. EX PLA=7, HDPE = 2 ...";NA;NA;NA;Yes;2022-03-29T00:00:00Z;from an industrialization point of view, we need to see the logos
+PF5.3.1The demonstrator must provide information on the recyclability and repairability of the product's parts.;Definition of the procedures to be followed to repair the product;In part;Fabio / Cristian;NA;NA;NA;NA;NA;In part;2022-05-02T00:00:00Z;can you formalize how your products can be repaired
+PF5.3.2 The demonstrator must identify the stakeholders involved in recycling and repair on the territory.;Inventory of product recycling facilities on the territory;In part;Fabio / Fedoua;NA;NA;NA;NA;NA;In part;2022-05-02T00:00:00Z;Can you identify the companies able to recycle your product in your territory?
+PF5.3.2 The demonstrator must identify the stakeholders involved in recycling and repair on the territory.;Inventory of facilities for the repair of products on the territory;In part;Fabio / Fedoua;NA;NA;NA;NA;NA;In part;2022-05-02T00:00:00Z;Can you identify the companies able to repair your product in your territory?
+PF5.3.2 The demonstrator must identify the stakeholders involved in recycling and repair on the territory.;Transmission of identified installations;In part;Fabio / Fedoua;NA;NA;NA;NA;NA;In part;2022-05-02T00:00:00Z;This information must be transmitted to the platform
+PF5.4.1 The demonstrator must identify the expertise required to support users;Identification of the expertise;Yes;Cristian / Benjamin;NA;[27/01/2022] We know the possibilities and limits of our 3D printing technology. What shapes can be printed without problems, with what material and have a time estimate. With regard to the injection moulding technology we have the necessary know-how in terms of technology and materials.;NA;NA;NA;In part;2022-05-02T00:00:00Z;"can you provide example concerning shapes, materials, time
+
+With that, i can validate it"
+PF5.4.1 The demonstrator must identify the expertise required to support users;Transmission of this information;In part;Cristian;NA;[27/01/2022] We need the platform;NA;NA;NA;In part;2022-05-02T00:00:00Z;This information must be transmitted to the platform
+PF5.4.2 The demonstrator must know the skills of the experts.;Identification of the facility’s skills;In part;Cristian / Benjamin;NA;[27/01/2022] Skills in 3D printing, plastic material and recycled plastic, CAD software, 3D modelling, laser cutting, mould manufacturing, injection moulding,;NA;NA;NA;Yes;2022-01-31T00:00:00Z;Ok
+PF5.4.2 The demonstrator must know the skills of the experts.;Transmission of these skills;In part;Cristian;NA;[27/01/2022] Platform;NA;NA;NA;In part;2022-05-02T00:00:00Z;This information must be transmitted to the platform
+PF5.4.3 The demonstrator must inform of a need for support by the appropriate experts.;Identification of how experts can help users;Yes;Fabio;NA;"[03/01/2022]
+- up to date, No conection with INEDIT plateform";NA;NA;NA;No;2022-05-02T00:00:00Z;waiting for the development of the platform
+PF5.4.3 The demonstrator must inform of a need for support by the appropriate experts.;Transmission of this information;Yes;Fabio;"[03/01/2022]
+- up to date, No conection with INEDIT plateform";"[03/01/2022]
+- up to date, No conection with INEDIT plateform";NA;NA;NA;No;2022-05-02T00:00:00Z;waiting for the development of the platform
+SF1.1.3 The facilities of the demonstrator must inform of its means of production;Transmission of the designation of the technology of the company (label, manufacturer, size, weight, material used, production capacity, rate, consumption);Yes;Cristian / Alexandre;PC, software (bizagui);[25/01/2022] The work is in progress, a document will present the global activity of UL demonstrator through modelling systems. The document will explain each process  with their respective technology.;NA;NA;NA;In part;2022-05-02T00:00:00Z;"please put details we need these elements to design the users guides (D4.5)
+Can you specify / formalize the characteristics of your technologies"
+SF1.2.2 The facilities of the demonstrator must inform of its customer orders;Update the order progress;Yes;Alexandre;NA;Platform;NA;NA;NA;In part;2022-05-02T00:00:00Z;"This requires that the platform is operational, we want to validate that the validation by partners is possible on the platform, it is to validate that the information flow ""Update the order progress"" works"
+SF1.2.3 The facilities of the demonstrator must inform of its production capabilities;Information of production capabilities to facilitate the production plan;Yes;Benjamin / Cristian;NA;[25/01/2022] The Gigabot generates the bottleneck, only 8 hours a day of printing, under constant supervision.;NA;NA;NA;Yes;2022-03-01T00:00:00Z;Ok
+SF1.2.4 The facilities of the demonstrator must inform of its deadlines;"Transmission of its deadline in
+real time";Yes;Cristian;NA;Platform;NA;NA;NA;In part;2022-05-02T00:00:00Z;This information must be transmitted to the platform
+SF1.3.1 The facilities of the demonstrator must inform about their localisation;Transmission of the geographical position of the company;Yes;Cristian / Alexandre;NA;Platform;NA;NA;NA;In part;2022-05-02T00:00:00Z;This information must be transmitted to the platform
+SF1.3.2 The facilities of the demonstrator must inform about financial cost of their activities;Transmission of product production costs;Yes;Cristian;NA;Platform;NA;NA;NA;In part;2022-05-02T00:00:00Z;This information must be transmitted to the platform
+SF1.3.2 The facilities of the demonstrator must inform about financial cost of their activities;Transmission of product transport costs;Yes;Cristian;NA;Platform;NA;NA;NA;In part;2022-05-02T00:00:00Z;This information must be transmitted to the platform
+SF2.1.1 The facilities of the demonstrator must identify and formalize their eco-design practices for their products and packaging.;Identification of eco-design practices for their product and packaging;In part;Cristian;Utilization of recycled materials from short-loop recycling;[14-04-2022] Consider the production material. To be conscious of the environmental impacts in the production chain. . Process optimization in terms of material and energy used. Prefer recycled materials. Consider recycled paper packaging, etc.;NA;NA;NA;Yes;2022-05-02T00:00:00Z;Ok
+SF2.1.1 The facilities of the demonstrator must identify and formalize their eco-design practices for their products and packaging.;Formalization of eco-design practices for their product and packaging;In part;Cristian;"Utilization of recycled materials from short-loop recycling. 
+Smartcollector";[14-04-2022] At the moment we are working to use recycled material in 3D printing and injection molding. we plan to carry out an LCA of our process to optimize our processes and reduce our environmental impact. At the moment we do not have packaging;NA;NA;NA;Yes;2022-05-02T00:00:00Z;Ok
+SF2.1.4 The facilities of the demonstrator should identify and formalize their waste sorting and recycling practices.;Identification of waste sorting and recycling practices;Yes;Cristian;NA;"[28-03-2022] Stages of our recycling process: collection, material preparation, manufacturing and delivery.                 [14-04-2022] Benefits of short-circuit recycling. Plastic should be separated by type of plastic. Plastic recycling can be done mechanically, transforming the plastic waste into raw material. There are different ways to recycle plastic. We focus on mechanical recycling.    
+";NA;NA;NA;Yes;2022-05-02T00:00:00Z;Ok
+SF2.1.4 The facilities of the demonstrator should identify and formalize their waste sorting and recycling practices.;Formalisation of waste sorting and recycling practices;Yes;Cristian;NA;[14-042022] The collection is done in areas of less than 2 kilometers, which is why bicycle transportation is favored. The collection of plastic is done by means of intelligent collectors that allow us to optimize our displacements. . In the separation of plastic, a sorting area was established to separate the material by type, condition and color. This allows us to establish the necessary raw material for our production phase. We are developing 3D technology and mold injection to manufacture products or sub-products.;NA;NA;NA;Yes;2022-05-02T00:00:00Z;Ok
+SF2.2.1 The facilities of the demonstrator must share their eco-design practices for their products and packaging.;Transmission of ecodesign practices;Yes;Fabio;NA;NA;NA;NA;NA;In part;2022-05-02T00:00:00Z;To develop
+SF2.2.4 The facilities of the demonstrator should share their waste sorting and recycling practices.;Transmission of the waste sorting and recycling practices;Yes;Cristian;NA;[14-04-2022] The collection is done in areas of less than 2 kilometers, which is why bicycle transportation is favored. The collection of plastic is done by means of intelligent collectors that allow us to optimize our displacements. . In the separation of plastic, a sorting area was established to separate the material by type, condition and color. This allows us to establish the necessary raw material for our production phase. We are developing 3D technology and mold injection to manufacture products or sub-products.;NA;NA;NA;Yes;2022-05-02T00:00:00Z;Ok, this information must be transmitted to the platform
+SF2.3.1 The facilities of the demonstrator must share their eco-design initiatives for their products and packaging.;"Transmission of ecodesign
+initiatives";In part;Cristian;NA;[14-04-2022] Integration of recycled materials by different project holders in the Octroi association.;Planning a workshop to develop new ideas.;NA;NA;Yes;2022-05-02T00:00:00Z;Ok, this information must be transmitted to the platform
+SF2.3.4 The facilities of the demonstrator should share their waste sorting and recycling initiatives.;"Transmission of the waste sorting and
+recycling initiatives";Yes;Cristian/ Fedoua/ Fabio/ Alexandre;NA;[28-03-2022] Stakeholder feedback regarding the smartcollector, applied workshops...;NA;NA;NA;Yes;2022-05-02T00:00:00Z;Ok, this information must be transmitted to the platform
+SF3.1.1 The demonstrator must be aware of the technical constraints of the technologies;Description of the possibilities of customization of technologies;Yes;Cristian;NA;[28-03-2022] The technologies we are developing will allow us to make 3D prints, small injection molded parts, plastic sheets and profiles. Demonstrated in different projects carried out at UL;NA;NA;NA;In part;2022-05-02T00:00:00Z;There should be evidence and an illustrated summary of what could be done
+SF3.1.1 The demonstrator must be aware of the technical constraints of the technologies;Transmission of the technical constraints of each technology;Yes;Cristian;NA;[28-03-2022]Each technology has its defined capabilities which will be formalized and shared by different channels.;NA;NA;NA;In part;2022-05-02T00:00:00Z;The possibilities of personalization need to be formalized to be sent to the platform
+SF3.2.1 The demonstrator must propose technical solutions that can be achieved by its technologies;Presence of technology characterization support;Yes;Cristian;NA;[28-03-2022]Each technology has its defined capabilities which will be formalized and shared by different channels.;NA;NA;NA;In part;2022-05-02T00:00:00Z;There should be evidence and an illustrated summary of what could be done
+SF3.2.1 The demonstrator must propose technical solutions that can be achieved by its technologies;Knowledge of the technical constraints of the technologies;Yes;Cristian;NA;[28-03-2022]Each technology has its defined capabilities which will be formalized and shared by different channels.;NA;NA;NA;In part;2022-05-02T00:00:00Z;There should be evidence and an illustrated summary of what could be done
+SF3.2.1 The demonstrator must propose technical solutions that can be achieved by its technologies;Knowledge of the capacities of the technologies (dimensions to be produced, production capacity);Yes;Cristian;NA;[28-03-2022]Each technology has its defined capabilities which will be formalized and shared by different channels.;NA;NA;NA;In part;2022-05-02T00:00:00Z;There should be evidence and an illustrated summary of what could be done
+SF3.2.1 The demonstrator must propose technical solutions that can be achieved by its technologies;Learning from technology data (3D model);NA;NA;NA;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain
+SF3.2.2 The demonstrator must advise the user on materials suitable for his chosen technology and their requirements;Presence of technology characterization support and a material description support;Yes;Cristian;NA;[28-03-2022]Each technology has its defined capabilities which will be formalized and shared by different channels. For the different types of materials used, each will be described in detail for a better understanding.;NA;NA;NA;In part;2022-05-02T00:00:00Z;There should be evidence and an illustrated summary of what could be done
+SF3.2.2 The demonstrator must advise the user on materials suitable for his chosen technology and their requirements;Identification of materials used by companies;Yes;Cristian;NA;"[28-03-2022] Which companies? or the UL demonstrator
+In the UL we use Wood, virgin and recycled plastic (PLA,HDPE, PP, PET, PMMA) and metal";NA;NA;NA;Yes;2022-03-29T00:00:00Z;Ok
+SF3.2.2 The demonstrator must advise the user on materials suitable for his chosen technology and their requirements;Knowledge of materials (resistance, degradation, durability, recyclability, toxicity;In part;Fabio / Hakim ?;[LD]Catalina thesis? + Cifre entreprise (LRGP + LERMAB) ?;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;provide details, can you precise the skills as well as possible ?
+SF3.3.1 The demonstrator shall inform users of the conditions for recycling parts of the product.;Identification of constituent materials;NA;NA;NA;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;You need to know the composition of your materials in order to facilitate the recycling (is it mixed materials ?)
+SF3.3.1 The demonstrator shall inform users of the conditions for recycling parts of the product.;Identification of the recyclable potential of materials, the suitable recycling solutions and the recycling companies on the territory;In part;Fabio / Hakim ?;[LD]Catalina thesis? + Cifre entreprise (LRGP + LERMAB)?;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;It can be linked with your actions from the SF2 and PF5
+SF3.3.1 The demonstrator shall inform users of the conditions for recycling parts of the product.;Transmission of recycling instructions;Yes;Cristian;NA;[28-03-2022] The plastic is recycled according to the regulations of each country. It can be established that each of our printed or injected pieces has its logo with respect to the plastic used. In France we use the identification of the different types of plastic by numbers. 1 = PET, 2= PEHD ... 5= PP, etc. These plastics are separated in different bags from the garbage for later recycling.;NA;NA;NA;In part;2022-05-02T00:00:00Z;Ok, but what are the instructions for the users
+SF3.4.1 The demonstrator must assess the environmental impact of the product;Identification of product production and consumption data;Yes;Cristian;"Open LCA software
+Ecoinvent Data base";[28-03-2022] The development of LCA by INEDIT and UL will allow us to obtain data concerning the impact of our production.;NA;NA;NA;In part;2022-05-02T00:00:00Z;Waiting for proofs
+SF3.5.1 The demonstrator must identify their customization solutions;Description of the possibilities of customization of technologies;Yes;Cristian;NA;[28-03-2022] The technologies we are developing will allow us to make 3D prints, small injection molded parts, plastic sheets and profiles.;NA;NA;NA;In part;2022-05-02T00:00:00Z;There should be evidence and an illustrated summary of what could be done
+SF3.5.1 The demonstrator must identify their customization solutions;Transmission of the technical constraints of each technology;In part;Cristian;NA;[28-03-2022]Each technology has its defined capabilities which will be formalized and shared by different channels.;NA;NA;NA;In part;2022-05-02T00:00:00Z;The possibilities of personalization need to be formalized to be sent to the platform
+SF4.1.1 Demonstrator facilities should strengthen and enhance employment potential (job creation and emergence of new trades);Identification of the new jobs created locally;Yes;Laurent;INEDIT budget + time to ensure recruitment;"Alexandre Astachenko a work-study student (LP After) for 12 months
+Cristian Caceres as Engineer (M2 level) for 12 months
+Guillaume Pronost as PhD student for 36 months
++ 2 post-Doc jobs (1st for 36 months, 2nd for 24 months) have also been created
++ 1 technical staff 12 months";NA;NA;NA;Yes;2022-03-29T00:00:00Z;+ voir Hakim pour les thèses CIFRE (LRGP & LERMAB)
+SF4.1.1 Demonstrator facilities should strengthen and enhance employment potential (job creation and emergence of new trades);Evaluation and monitoring of the perennity and stability of these jobs;Yes;Mauricio;"Infra+ (quality process) of ERPI laboratory 
+LP After & LP FabAdd pedagogocal team
+Ecole doctorale";"under analysis: policy of perpetuating posts or transforming them into an economic activity (start-up)
+for PhD Student - Job done by ED & Univesrsity
+Reflections on the design and analysis of the optimal business model of the Green fab lab are engaged in order to guide the evolution of its activity (e.g.: start-up)";NA;NA;NA;Yes;2022-03-29T00:00:00Z;ok
+SF4.1.1 Demonstrator facilities should strengthen and enhance employment potential (job creation and emergence of new trades);Identification of direct and indirect effects on local employment;In part;Mauricio / Laurent;"Meetings with Octroi nancy
+Cooperation with others Lab & SMEs (Hakim)";"Octroi Nancy activity 
+Lucas Renaud, a graduate of the LP AFTER, is employed by the association Octroi Nancy and previously student (see convention)
+Two PhD Student (see job description)";"indirect indicators
+need time";NA;NA;Yes;2022-03-29T00:00:00Z;ok + voir Hakim pour les thèses CIFRE
+SF4.1.1 Demonstrator facilities should strengthen and enhance employment potential (job creation and emergence of new trades);Identification of participation in the evolution of trades and skills and their acquisition;Yes;Laurent;"pedagogical meeting 
+involvement of academic decison-makers to vazlidate the strategic vision and module implementation
+hour of training (PM)";"See LP AFTER (Circular Eco + Green FabLab)
+LP FabAdd 3D printer and close-loop process (recycled plastic)  
+Master IDEAS (new workshop: Cocreation in VR) 
+Master IUVTT New module (Circular Eco) 
+for PhD Student - Job done by ED & Univesrsity";NA;NA;NA;Yes;2022-03-29T00:00:00Z;ok
+SF4.1.2 Demonstrator facilities shall support human capital development;Evaluate the investment in the employee training;In part;Mauricio / Laurent;"Infra+ (quality process) of ERPI laboratory 
+LP After evaluation 
+Scientifc publication
+Ecole doctorale";"Alexandre Astachenko a work-study student (LP After) for 12 months
+Several Scientifc publications since Oct 2019
+for PhD Student - Job done by ED & Univesrsity
+Doctoral training program of a PhD student (Guillaume Pronost ?)
+Benjamin (technical training)";NA;NA;NA;Yes;2022-03-29T00:00:00Z;ok
+SF4.1.2 Demonstrator facilities shall support human capital development;Measure the level of the acquired knowledge;Yes;Mauricio / Laurent;"Infra+ (quality process) of ERPI laboratory 
+LP After & LP FabAdd evaluation 
+Scientifc publication
+PhD defensis / manuscript";"Supervision and review of students' tutored projects (LP AFTER)
+Follow-up meeting of a PhD student (GP)";NA;NA;NA;Yes;2022-03-29T00:00:00Z;ok
+SF4.1.2 Demonstrator facilities shall support human capital development;Transmission of knowledge and skills;Yes;Mauricio / Laurent;"Infra+ (quality process) of ERPI laboratory 
+LP After & LP FabAdd evaluation 
+M2 IDEAS
+Scientifc publications
+Octroi Nancy ecossytem";"One official Meeting per month with Octroi Nancy ecosystem  
+
+Also demonstration of manufacturing of smart collectors of plastic waste and demonstrator for development of   3D printing of recycled plastic (in progress)
++ voir Hakim pour les thèses CIFRE";Late due to pandemic;NA;NA;Yes;2022-03-29T00:00:00Z;NA
+SF4.1.2 Demonstrator facilities shall support human capital development;Evaluate the evolution of the qualification level of young and senior people;Yes;Mauricio / Laurent;"Infra+ (quality process) of ERPI laboratory
+DD&RS label of UL
+LP After evaluation
+Scientifc publication
+Staff annual interviews";"This dimension is taken into account within the  “DD&RS” Label: the French sustainable development label for higher education institutions
+Technical reports (WP4 and WP6)
+Valorisation of the deliverables in scientific contributions (conference papers, articles, chapters, posters...)";NA;NA;NA;Yes;2022-03-29T00:00:00Z;ok
+SF4.2.1 Demonstrator facilities shall implement the principles and strategies of circular economy;Presence of recycling and waste management practices;Yes;Fabio;"Cristian Caceres as Engineer (M2 level) for 12 months
+Alexandre Astachenko a work-study student (LP After) for 12 months
+Fabio + Benjamin";"Sorting and collection of waste (plastic and others) + posters to sensitize the staff
+Training programs on recycling practices (student workshops, thesis on plastic recycling...)
+Courses and case studies on circular business models for plastic recycling";NA;NA;NA;Yes;2022-03-29T00:00:00Z;NA
+SF4.2.1 Demonstrator facilities shall implement the principles and strategies of circular economy;Presence of ecodesign practices;In part;Fabio / Benjamin;"Cristian Caceres as Engineer (M2 level) for 12 months
+Alexandre Astachenko a work-study student (LP After) for 12 months
+Fabio + Benjamin";"Approaches and methodologies on the life cycle assessment of the plastic recycling in closed loop supply chain (to be implented) 
+Upcycling (wood) for furniture manufacturing
+recycled plastic injection";NA;NA;NA;Yes;2022-03-29T00:00:00Z;"ecodesign definition: ""integrate the environment in the design of the product or service, and during all stages of its life cycle"""
+SF4.2.1 Demonstrator facilities shall implement the principles and strategies of circular economy;Presence of sustainable purchases and responsible consumption;No;Benjamin / Aurélia; ;Not relevant: procurement depends on the public market framed by the university; ; ; ;Yes;2022-03-29T00:00:00Z;Ok, we can explain that the system is decentralized in our case
+SF4.2.1 Demonstrator facilities shall implement the principles and strategies of circular economy;Presence of practice aiming at dematerialization of the offer (replacing the good by a service);Yes;Fabio;"
+LF2L + Green Fab Lab Equipment and material";"(as Xerox model) provision of equipment to the FabLab association NYBI for 3D printing, laser cut…
+the same for team project (start up) at Octroi Nancy"; ; ; ;Yes;2022-03-29T00:00:00Z;ok
+SF4.2.1 Demonstrator facilities shall implement the principles and strategies of circular economy;Presence of waste/materials sharing and recovery flows;In part;Fabio;"Cristian Caceres as Engineer (M2 level) for 12 months
+Alexandre Astachenko a work-study student (LP After) for 12 months
+Fabio + Benjamin";"recovery flows are present (plastic waste recovery) + wood upcycling
+The supply of waste is currently a project in development.At this stage work on the identification of stakeholders users of plastic waste from the green fab lab"; ; ; ;Yes;2022-03-29T00:00:00Z;ok
+SF4.2.3 Demonstrator facilities must promote responsible production and consumption processes;Integration of environmental and social criteria in mobility policies;No; ; ;Not in the scope of the project; ; ; ;No;2022-05-25T00:00:00Z;Not in the scope
+SF4.2.3 Demonstrator facilities must promote responsible production and consumption processes;Identification of indicators to measure the impacts of mobility;No; ; ;Not in the scope of the project; ; ; ;No;2022-05-25T00:00:00Z;Not in the scope
+SF4.2.3 Demonstrator facilities must promote responsible production and consumption processes;Set measurable and quantifiable improvement objectives over time;In part;Fabio;scientific work of the research team on closed-loop supply chain optimization;analysis of the environmental and logistical feasibility of distributed plastic recycling; ; ; ;Yes;2022-03-24T00:00:00Z;ok
+SF4.2.3 Demonstrator facilities must promote responsible production and consumption processes;Implementation of concrete actions in place, their followup and evaluation over time; ; ; ; ; ; ; ; ;2022-03-24T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+SF4.2.3 Demonstrator facilities must promote responsible production and consumption processes;Valorisation of the company’s policy with customers and suppliers (via the website, catalogues or commercial brochures, etc.).;Yes;Benjamin?;ICEEL technical sheets (academic collegium) and internal communication support of the laboratory (EPRI) and the engineering school (ENSGSI); ; ; ; ;Yes;2022-03-24T00:00:00Z;ok
+SF4.2.4 Demonstrator facilities should reduce greenhouse gas emissions and anticipate the effects of climate change;Implementation of a concrete action plan to reduce fuel consumption and CO2 emissions;In part;Fabio;"Cristian Caceres as Engineer (M2 level) for 12 months
+Alexandre Astachenko a work-study student (LP After) for 12 months
+Fabio + Benjamin";"implementation of eco-friendly transport actions for the collection of small quantities of plastic waste (individual travel)
+under development: bicycle transportation
+
+possible synergy with theATP Rives de Meurthe/ Echogeste associations ?"; ; ; ;Yes;2022-03-24T00:00:00Z;NA
+SF4.2.4 Demonstrator facilities should reduce greenhouse gas emissions and anticipate the effects of climate change;Implementation of a “green” awareness-raising campaign for transport service providers.;No; ; ; ; ; ; ;No;NA;NA
+SF4.2.4 Demonstrator facilities should reduce greenhouse gas emissions and anticipate the effects of climate change;Involvement in the joint definition of a transport plan with external service providers.;No; ; ; ; ; ; ;No;NA;NA
+SF4.2.4 Demonstrator facilities should reduce greenhouse gas emissions and anticipate the effects of climate change;Inform relative transport providers about CO2 emission requirements;No; ; ; ; ; ; ;No;NA;NA
+SF4.2.4 Demonstrator facilities should reduce greenhouse gas emissions and anticipate the effects of climate change;Inform providers of the good practices to adopt;No; ; ; ; ; ; ;No;NA;NA
+SF4.2.4 Demonstrator facilities should reduce greenhouse gas emissions and anticipate the effects of climate change;Propose the use of fuel performance monitoring indicators;No; ; ; ; ; ; ;No;NA;NA
+SF4.2.4 Demonstrator facilities should reduce greenhouse gas emissions and anticipate the effects of climate change;Presence of a “compensation” approach: purchase of services aimed at capturing a greenhouse gas or avoiding its emission;No; ; ; ; ; ; ;No;NA;NA
+SF4.2.4 Demonstrator facilities should reduce greenhouse gas emissions and anticipate the effects of climate change;Targeting “carbon neutrality”;In part;Fabio;"Cristian Caceres as Engineer (M2 level) for 12 months
+Alexandre Astachenko a work-study student (LP After) for 12 months
+Fabio + Benjamin";ecofriendly means of transport of plastic waste; ; ; ;Yes;2022-03-24T00:00:00Z;ok
+SF4.4.3 Demonstrator facilities should promote a health-promoting attitude and prevent and risks;Presence of health and safety management strategy in the organization;Yes;Mauricio / Benjamin;"Infra+ (quality process) of ERPI laboratory
+DD&RS label of UL";mandatory;NA;NA;NA;Yes;2022-03-24T00:00:00Z;ok
+SF4.4.3 Demonstrator facilities should promote a health-promoting attitude and prevent and risks;Pooling of resources for advice on health and safety standards (e.g., OHSAS) with local stakeholders.;Yes;Mauricio / Benjamin;"Infra+ (quality process) of ERPI laboratory
+DD&RS label of UL";mandatory;NA;NA;NA;Yes;2022-03-24T00:00:00Z;ok
+SF4.4.3 Demonstrator facilities should promote a health-promoting attitude and prevent and risks;Identification of hazards, risk assessment and means of control;Yes;Mauricio / Benjamin;"Infra+ (quality process) of ERPI laboratory
+DD&RS label of UL";mandatory;NA;NA;NA;Yes;2022-03-24T00:00:00Z;ok
+SF4.4.3 Demonstrator facilities should promote a health-promoting attitude and prevent and risks;Adopt the principles of continuous improvement, prevention of harm to persons and regulatory compliance.;Yes;Mauricio / Benjamin;"Infra+ (quality process) of ERPI laboratory
+DD&RS label of UL";mandatory;NA;NA;NA;Yes;2022-03-24T00:00:00Z;ok
+SF4.4.3 Demonstrator facilities should promote a health-promoting attitude and prevent and risks;Implementation of information and risk awareness support, depending on the workstations—;Yes;Mauricio / Benjamin;"Infra+ (quality process) of ERPI laboratory
+DD&RS label of UL";mandatory;NA;NA;NA;Yes;2022-03-24T00:00:00Z;ok
+SF4.4.3 Demonstrator facilities should promote a health-promoting attitude and prevent and risks;Implementation of training sessions internally and with local partners;Yes;Mauricio / Benjamin;"Infra+ (quality process) of ERPI laboratory
+DD&RS label of UL";mandatory;NA;NA;NA;Yes;2022-03-24T00:00:00Z;ok
+SF4.5.1 Demonstrator facilities should develop synergies with local stakeholders;Relationships with local companies within short circuits networks;Yes;Fedoua;Octroi Nancy + local stakeholders (SMEs, public compagnies): 24 targeted stakeholders;"interviews with 24 stakeholders (done)
+smart collectors installation with 4 stakeholders (in progress)";manufacturing capacity of  smart collectors; ; ;In part;2022-03-24T00:00:00Z;NA
+SF4.5.1 Demonstrator facilities should develop synergies with local stakeholders;Presence of relationships with the university and local research centres;Yes;Mauricio;ERPI Team + LF2L + link ICEEL + other lab (see Hakim); ; ; ; ;Yes;2022-03-24T00:00:00Z;ok
+SF4.5.1 Demonstrator facilities should develop synergies with local stakeholders;Development of relations with the associative actors;Yes;Laurent;Octroi Nancy + AVQ (citizen council);"interviews with 24 stakeholders (done)
+smart collectors installation with 4 stakeholders (in progress)";manufacturing capacity of  smart collectors; ; ;In part;2022-03-24T00:00:00Z;NA
+SF4.5.2 Demonstrator facilities should participate in the development of new forms of collaboration with local stakeholders;New cooperation in the context of innovation clusters;Yes;Mauricio / Laurent;Link with Materalia and sister projects; ; ; ; ;Yes;2022-03-24T00:00:00Z;ok
+SF4.5.2 Demonstrator facilities should participate in the development of new forms of collaboration with local stakeholders;Participation in national or European research programs;Yes;Mauricio / Laurent;link with sister projects + ICE-IMAOT conference;organization of a common workshop ICE-IAMOT conference; ; ; ;Yes;2022-03-24T00:00:00Z;ok
+SF4.5.3 The demonstrator’s facilities must contribute to the implementation of shared management around collective projects;Involvement in local projects;Yes;Laurent;Green FabLab at Octroi Nancy + ATP Rives de Meurthe;"Involvement in local projects of mask collection for plastic injection. Beginning of reflection on the possibilities of 3D printing of recycled masks  ?
++  (PhD LUE + Research Program ACTA Mobilier https://www.acta-mobilier.fr/)"; ; ; ;Yes;2022-03-24T00:00:00Z;ok
+SF4.5.3 The demonstrator’s facilities must contribute to the implementation of shared management around collective projects;Presence of a collaborative multi-actor management tool;Yes;Alex / Benjamin;Fabmanager Platform + PM;https://fabmanager.lf2l.fr/#!/; ; ; ;Yes;2022-05-25T00:00:00Z;ok
+SF4.5.3 The demonstrator’s facilities must contribute to the implementation of shared management around collective projects;Presence of new collaborative methods (living lab methods, Adopt Open Hardware approach to develop project, etc.);Yes;Laurent;"Green FabLab at Octroi Nancy
+Smart Collector
+Open hardware dashboard for smart collector";in perspective: organize a collaborative workshop with the neighborhood actors (ICE-IAMOT conference); ; ; ;Yes;2022-03-24T00:00:00Z;ok
+SF4.5.3 The demonstrator’s facilities must contribute to the implementation of shared management around collective projects;Participation in the implementation of a mixed governance system;In part;Laurent;"Green Fab Lab
+laboratory  + engineering school governance + city of nancy
+Collaboration with Octroi Nancy and its ecosystem";to be developed: it depends on the evolution of the organizational structure of the Green Fab Lab; ; ; ;In part;2022-03-24T00:00:00Z;NA
+SF4.5.4 The demonstrator facilities should strengthen the connection with the surrounding territories;Regional mobility of skilled workers;In part;Mauricio / Laurent;visits / workshop with Nomad lab;"(Strasbourg, Vosj'Innov) 
+Biennal creativité à Strasbroug etc."; ; ; ;In part;2022-03-24T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+SF4.5.4 The demonstrator facilities should strengthen the connection with the surrounding territories;Knowledge transfer (study days, workshops, use innovative space…);Yes;Mauricio / Laurent;visits / workshop at Green Fablab + Nomad'lab + press + link with sister projects;ex: Visite AERIADES, VNF, etc. (see Infra+); ; ; ;Yes;2022-03-24T00:00:00Z;ok
+SF4.6.1 The demonstrator’s facilities should enhance the technological and scientific visibility of the territory;Presence of rare skills;Yes;Mauricio;"ERPI Team
+gigabot X 3D printing";"PhD thesis LUE (Catalina, Supervisor: Hakim Boudaoud, J.M. Pearce, C. Nouvel)
+Printability analysis of recycled plastics in the gigabot x"; ; ; ;Yes;2022-03-24T00:00:00Z;ok
+SF4.6.1 The demonstrator’s facilities should enhance the technological and scientific visibility of the territory;Participation in national and international events (seminars, congresses, study days…);Yes;Laurent;"OIK 2021, Spring of innnovation 2020
+ICE 2021
+ICE-IAMOT 2022
+etc.
+Special Issue INEDIT";"contributions in seminars 
+workshops
+valorisation in scientific papers  (open access)"; ; ; ;Yes;2022-03-24T00:00:00Z;ok
+SF4.6.1 The demonstrator’s facilities should enhance the technological and scientific visibility of the territory;Participation in innovation competitions;No; ; ; ; ; ; ;No;2022-03-24T00:00:00Z;NA
+SF4.6.1 The demonstrator’s facilities should enhance the technological and scientific visibility of the territory;Dissemination of scientific and technical knowledge (scientific publications, patents…);Yes;All team;"see Zenodo (INEDIT)
+HAL"; ; ; ; ;Yes;2022-03-24T00:00:00Z;ok
+SF4.6.2 Demonstrator facilities must promote the attractiveness of skilled workers;Proposition of attractive new work opportunities;Yes;Mauricio;"green Fablab and LF2L 
+Financial ressources (projects)";development of a new research program (PhD LUE + Research Program ACTA Mobilier https://www.acta-mobilier.fr/);NA;NA;NA;Yes;2022-03-24T00:00:00Z;ok
+SF4.6.2 Demonstrator facilities must promote the attractiveness of skilled workers;Career development opportunities;Yes;Mauricio;relevant and innovative research projects;(PhD LUE + Research Program ACTA Mobilier https://www.acta-mobilier.fr/);NA;NA;NA;Yes;2022-03-24T00:00:00Z;ok
+SF4.6.2 Demonstrator facilities must promote the attractiveness of skilled workers;Implementation of proper working conditions;Yes;Mauricio;"green Fablab and LF2L 
+Infra+ (quality process) of ERPI laboratory";mandatory;NA;NA;NA;Yes;2022-03-24T00:00:00Z;ok
+SF4.6.3 Demonstrator facilities should be a territorial marketing asset;Enhancing the image of its organization, its know-how, its products and services and highlighting its territorial anchoring;Yes;Laurent;"green Fablab and LF2L 
++ UL INEDIT Team + Pole EMPP (conference)";NA;NA;NA;NA;Yes;2022-03-24T00:00:00Z;ok
+SF4.6.3 Demonstrator facilities should be a territorial marketing asset;Strengthen your own communication;Yes;Laurent;"see Zenodo (INEDIT)
+HAL
++ newspaper / websites
++ ICEEL (fiches) 
++ Pole EMPP (conference)";NA;NA;NA;NA;Yes;2022-03-24T00:00:00Z;ok
+SF4.6.3 Demonstrator facilities should be a territorial marketing asset;Obtain the labelling of products/services/processes/sites;In part;NA;"Infra+ (quality process) of ERPI laboratory
+DD&RS label of UL";NA;NA;NA;NA;Yes;2022-03-24T00:00:00Z;ok
+SF4.6.3 Demonstrator facilities should be a territorial marketing asset;Facilitate the attraction of talent;Yes;Mauricio;high-level training at different degree levels  (L, Master, PhD);NA;NA;NA;NA;Yes;2022-03-24T00:00:00Z;ok
+SF4.6.3 Demonstrator facilities should be a territorial marketing asset;Promote /use innovative spaces;Yes;Laurent;"visits / workshop at Green Fablab + LF2L + Octroi Nancy
+";NA;NA;NA;NA;Yes;2022-03-24T00:00:00Z;ok
+SF4.6.3 Demonstrator facilities should be a territorial marketing asset;Organize Living lab event in different places with local partners (public and private);Yes;Laurent;"IDEAS Workshops
+LP AFTER workshops
+Futur workshop with citizens / stakeholders
++ Nomad'lab (Strasbourg)";NA;NA;NA;NA;Yes;2022-03-24T00:00:00Z;ok
+CF1.1.1 The demonstrator must seek to increase the life cycle of materials considered as waste.;Reflection on the type of material;Yes;Fabio;"[15/12/2021]
+- The smart collectors help to identify certain types of plastic (at least make a first sorting).
+However, a manual sorting is need to better improve the sorting phase to be sure that we treat only one type at of plastic at the time.";"[15/12/2021]
+Types of plastic (fillaments / pellets) that can be used in our process are mainly Polylactic Acid (PLA), Polyethylene Terephthalate (PETG), Thermoplastic polyurethane (TPU).
+";NA;NA;NA;Yes;2021-01-21T00:00:00Z;Ok
+CF1.1.1 The demonstrator must seek to increase the life cycle of materials considered as waste.;Reflection on the quality of the material;Yes;Fabio;[24/052022] Oussamma;[24/05/2022] production of a machine that allows us to qualify and characterize the material. Melt flow Index in Open-source;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.1.1 The demonstrator must seek to increase the life cycle of materials considered as waste.;Reflection on repairs service;Yes;Cristian/ Benjamin;[05/07/2022] 3D printing, Injection Moulding.;[05/07/2022] We have the possibility to model and produce different types of parts and products. Also there are a lot of models to joins bars and sheet. We are adapting them for us.;NA;NA;NA;Yes;2022-07-18T00:00:00Z;Ok
+CF1.1.1 The demonstrator must seek to increase the life cycle of materials considered as waste.;Reflection on the recyclability of materials;Yes;Fabio;NA;[31/05/2022] plastic recycling is regulated in most countries. The important thing is to establish the plastic material used. PET 1, HDPE 2, PP 5, 7 others.;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.1.1 The demonstrator must seek to increase the life cycle of materials considered as waste.;Reflection on remanufacturing;Yes;Fabio;NA;[31/05/2022]In the case of printed PLA, the material can be recycled up to 4 times. On the other hand, HDPE, PP, PET are materials that when injected, their number of recycling cycles increases considerably.;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.1.2 The demonstrator must be aware of the environmental impact of the collection, sorting, storage and treatment of its waste.;Identification of collection sites;Yes;Fabio / Fedoua;NA;[24/05/2022] Surveys, questionnaires and territorial research to define potential stakeholders in the neighbourhood.;NA;NA;NA;Yes;2022-05-25T00:00:00Z;Ok
+CF1.1.2 The demonstrator must be aware of the environmental impact of the collection, sorting, storage and treatment of its waste.;Identification of means of transport of waste;Yes;Fabio;Bike;At the moment we are collecting plastic waste in our neighbourhood, it allows us to cover short distances that can be done by bicycle.;NA;NA;NA;Yes;2022-01-31T00:00:00Z;Ok
+CF1.1.2 The demonstrator must be aware of the environmental impact of the collection, sorting, storage and treatment of its waste.;Identification of transport modalities;Yes;Fabio;NA;by cargo Bike, on foot, Electric bike ?;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.1.2 The demonstrator must be aware of the environmental impact of the collection, sorting, storage and treatment of its waste.;Identification of sustainable recycling processes;In part;Fabio;NA;"[31/05/2022] - Collection made through ecological transports. 
+- Water recycling in the cleaning process. 
+- Recycling of defective products";NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.1.2 The demonstrator must be aware of the environmental impact of the collection, sorting, storage and treatment of its waste.;Identification of the impact of materials on the ecosystem during the recycling phase (storage, treatment);In part;Fabio;LCA software, Database;We can evaluate the potential impacts of our activities thanks to life cycle analysis. the available software is OpenLCA and the database is Ecoinvent;NA;NA;NA;Yes;2022-01-31T00:00:00Z;Ok
+CF1.1.3 The demonstrator must choose recycling technologies that preserve the mechanical properties of the materials.;Knowledge of different types of technology;Yes;Fabio/ Cristian/ Benjamin;NA;"[31/05/2022] Experience. Literature review and benchmarketing on communities such as ""Precious Plastic"", ""Brothers Make"", etc.";NA;NA;NA;In part;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.1.3 The demonstrator must choose recycling technologies that preserve the mechanical properties of the materials.;Presence of material knowledge;In part;Fabio / Hakim/ Catalina;Mel flow Index;[05/07/2022] Thank to Melt-flow index machine developed by Oussamma, we will have the possibility to qualify and to understand the differents plastics behaviour;NA;NA;NA;In part;2022-07-18T00:00:00Z;please explain the skills
+CF1.1.3 The demonstrator must choose recycling technologies that preserve the mechanical properties of the materials.;Identification of clean technologies and end-of-pipe;In part;Fabio;NA;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.1.4 The demonstrator must be aware of the technological and organizational limits of the recycling system for its materials.;Knowledge of materials and material degradation;In part;Fabio / Hakim;NA;[05/07/2022] Thank to Melt-flow index machine developed by Oussamma, we will have the possibility to qualify and to understand the differents plastics behaviour.;NA;NA;NA;In part;2022-07-18T00:00:00Z;please explain the skills
+CF1.1.4 The demonstrator must be aware of the technological and organizational limits of the recycling system for its materials.;Knowledge of the economic costs and cost-effectiveness of recycling;In part;Cristian;Excel, Cost structure methodology;[25/01/2022]Costs can be identified on the one hand as fixed costs where we find staff, rent, insurance, etc. Variable costs that are related to our production. For the moment we don't have production;[25/01/2022]To calculate the benefits of recycling in economic terms, we need the selling price of our products. At the moment it has not been defined.;NA;NA;Yes;2022-01-31T00:00:00Z;Ok
+CF1.1.4 The demonstrator must be aware of the technological and organizational limits of the recycling system for its materials.;Identification of products incompatible with production processes;No;Cristian/ Cataliba / Alexandre;NA;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.1.4 The demonstrator must be aware of the technological and organizational limits of the recycling system for its materials.;Knowledge of the capacity and cost-effectiveness of recycling systems;Yes;Cristian;NA;[05/07/2022] We know our system capacity of production and the different production costs but we don't have an economic activity, so for the moment calculating effectiveness is complicated.;NA;NA;NA;Yes;2022-07-18T00:00:00Z;Ok, noted
+CF1.1.4 The demonstrator must be aware of the technological and organizational limits of the recycling system for its materials.;Reflection on the possibility of developing recycling;Yes;Fabio/ Cristian;NA;[05/07/2022] for the moment We are improving our plate production by adapting a hydraulic press, we are improving our injection system by adapting an extruder and we want to improve our washing station by buying a washing machine that will also allow us to recycle the water used.;NA;NA;NA;Yes;2022-07-18T00:00:00Z;Ok
+CF1.1.4 The demonstrator must be aware of the technological and organizational limits of the recycling system for its materials.;Identification of investment costs in recycling processes and difficulties related to the sorting and separation of wastes;Yes;Cristian;NA;[05/07/2022] We know our activity costs in terms of tehcnology. The difficulties related to the sorting isThere is no low-cost technology to optimise this process and it is usually done by hand, taking a long time.;NA;NA;NA;Yes;2022-07-18T00:00:00Z;Ok, noted
+CF1.1.4 The demonstrator must be aware of the technological and organizational limits of the recycling system for its materials.;Storage space identification;Yes;Cristian/ Alexandre;"Cristian Caceres as Engineer (M2 level) for 12 months
+Alexandre Astachenko a work-study student (LP After) for 12 months
+Benjamin";[26/01/2022] We identify storage areas, where plastic waste is separated by material type, colour, condition (clean/dirty). It will then be sorted as material ready to be used for the shredding phase. Finally it will be stored by colour and material type.;NA;NA;NA;Yes;2022-01-31T00:00:00Z;Ok
+CF1.1.4 The demonstrator must be aware of the technological and organizational limits of the recycling system for its materials.;Identification of precautions to be taken in relation to products to be recycled and the characteristics of the waste;In part;Fabio / Hakim;[LD]Catalina thesis? + Cifre entreprise ?;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.1.4 The demonstrator must be aware of the technological and organizational limits of the recycling system for its materials.;Identification of patents and associated procedures related to recycling techniques and product regulations;In part;Fabio / Hakim;[LD]Catalina thesis? + Cifre entreprise ?;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.1.4 The demonstrator must be aware of the technological and organizational limits of the recycling system for its materials.;Recycling Knowledge;Yes;Fabio / Hakim;pedagogical tema & researchers;"LP AFTER (Circular Eco + Green FabLab)
+LP FabAdd 3D printer and close-loop process (recycled plastic)  
+Master IDEAS (???)
+Master IUVTT New module (Circular Eco) 
+PhD Students";NA;NA;NA;In part;2022-05-02T00:00:00Z;please, specify the skills
+CF1.1.5 The demonstrator must inform about the recyclable parts of its products and the associated recycling chains.;Transmission of the product recycling information;No;NA;NA;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.2.1 The demonstrator must consider the entire life cycle of the product.;Reflection on elimination/reduction of unnecessary packaging;No;Cristian;NA;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.2.1 The demonstrator must consider the entire life cycle of the product.;Search for reusable packaging;No;Cristian;NA;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.2.1 The demonstrator must consider the entire life cycle of the product.;Reflection for compacting and simplifying product;No;Cristian;NA;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.2.1 The demonstrator must consider the entire life cycle of the product.;Reflection for improving product life cycle and improving product quality to limit after-sales services;No;Cristian;NA;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.2.1 The demonstrator must consider the entire life cycle of the product.;Assessment of environmental impact (indicators, vision, strategy);Yes;Fabio/ Cristian;PC, LCA software;[26/01/2022] We can evaluate the potential impacts of our activities thanks to life cycle analysis. the available software is OpenLCA and the database is Ecoinvent;NA;NA;NA;Yes;2022-01-31T00:00:00Z;Ok
+CF1.2.1 The demonstrator must consider the entire life cycle of the product.;Anticipation of the manufacturing network;No;Cristian;NA;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.2.1 The demonstrator must consider the entire life cycle of the product.;Reflection on repairs, reuse and remanufacturing;Yes;Alexandre/Cristian;NA;"[26/01/2022] : Each of the parts produced can be replaced if necessary. Printed parts in the case study ""Workbench"".";we upcycled a workbench, using 3D printing as a customisation tool.;NA;NA;Yes;2022-01-31T00:00:00Z;Ok
+CF1.2.1 The demonstrator must consider the entire life cycle of the product.;Facilitation of end-of-life collection and transportation;No;NA;NA;[26/01/2022]Depends on the platform ? in the demonstrator we want to short-circuit recycling.;NA;NA;NA;No;2022-05-02T00:00:00Z;Prrof needed from UL, expected the information from the platform
+CF1.2.1 The demonstrator must consider the entire life cycle of the product.;Information about treatment facilities;No;Cristian;NA;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.2.2 The demonstrator must consider the choice of materials;Identification of materials;Yes;Fabio/ Benjamin;NA;[26/01/2022] 3D printing: PLA, PET and PP                                         Injection moulding: PHDE , PP, other thermoplastic  .;NA;NA;NA;Yes;2022-01-31T00:00:00Z;Ok
+CF1.2.2 The demonstrator must consider the choice of materials;Selection of non-toxic and harmless materials;No;Fabio / Hakim;NA;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.2.2 The demonstrator must consider the choice of materials;Select renewable and biocompatible materials;In part;Fabio / Hakim;[LD]Catalina thesis? + Cifre entreprise ?;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.2.2 The demonstrator must consider the choice of materials;Selection renewable and bio-energy resources;No;Fabio / Hakim;NA;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.2.2 The demonstrator must consider the choice of materials;Selection of materials with the most efficient recycling technologies;In part;Fabio / Hakim;[LD]Catalina thesis? + Cifre entreprise ?;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.2.2 The demonstrator must consider the choice of materials;Minimization of overall number of different incompatible materials;No;Fabio / Hakim;NA;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.2.3 The demonstrator must minimize the consumption of materials and energy;Minimization material content, packaging and scraps and discards;No;Fabio / Hakim;NA;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.2.3 The demonstrator must minimize the consumption of materials and energy;Minimization of material consumption during usage and the product development phase;No;Fabio / Hakim;NA;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.2.3 The demonstrator must minimize the consumption of materials and energy;Minimization energy consumption during product use;No;Fabio / Hakim;NA;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.2.5 The demonstrator must consider the choice of processes;Identification of the environmental impact of processes and technologies;Yes;Fabio / Cristian;NA;We can evaluate the potential impacts of our activities thanks to life cycle analysis. the available software is OpenLCA and the database is Ecoinvent;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.2.5 The demonstrator must consider the choice of processes;Selection of processes that are non-toxic and harmless to health and the environment;No;Fabio / Hakim;NA;NA;NA;NA;NA;No;2022-05-02T00:00:00Z;please explain, Can you specify your actions to achieve this control?
+CF1.3.3 The demonstrator must inform users of the environmental impacts of the product.;Communication of the eco-responsible approach to the stakeholders;Yes;Fabio/ Fedoua;"Léo Judon (Alternant CESI en communication)
++ social network + stikers
++ visits with partners";[05/07/2022] We did different workshops in the green fablab with companies, associatons and primary school student.;NA;NA;NA;Yes;2022-07-18T00:00:00Z;Ok
