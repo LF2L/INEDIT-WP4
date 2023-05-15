@@ -19,13 +19,17 @@ output:
   flexdashboard::flex_dashboard:
     orientation: rows
     logo: www/images/favicon.jpg
-    #vertical_layout: scroll
+    vertical_layout: scroll
     social: menu
 #date: "Version of the Document:  `r format(Sys.time(), '%d %B, %Y')`" 
 #author: "Université de Lorraine"
 editor_options: 
   chunk_output_type: console
 ---
+
+<script>
+$('.navbar-logo').wrap('<a href="https://www.inedit-project.eu/" target=_blank>');
+</script>
 
 ```{r setup, include=FALSE}
 
@@ -48,8 +52,13 @@ source("www/partials/07-innovations.R")
 > The main purpose of task 4.1 is to describe and define the needs of each demonstrator in order to establish a common base. Thus, each physical demonstrator shall be observed, and specific data of the processes shall be collected with the purpose to create a holistic framework of open manufacturing demonstration facility.
 
 
-<a href = "https://erpi.univ-lorraine.fr/">Made by Université de Lorraine</a>
 
+
+![EU](www/images/EU-logo.png){width='30px'}
+This project has received funding from the European Union’s H2020 research and innovation programme under Grant Agreement N 869952.
+
+
+<a href = "https://erpi.univ-lorraine.fr/">Made by Université de Lorraine</a>
 
 # DIT {data-icon="fa-bullseye"}
 ## Row {.tabset .tabset-fade}
